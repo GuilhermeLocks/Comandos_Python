@@ -9,6 +9,7 @@ while True:
             contador += 1
     if contador == 2:
         print(numero)
+        time.sleeping(1)
     numero += 1
 
 
