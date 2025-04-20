@@ -8,7 +8,8 @@ while True:
         if numero % c == 0:
             contador += 1
     if contador == 2:
-        print(numero)
+        print(numero) 
+        time.sleeping(1)
     numero += 1
 
 
