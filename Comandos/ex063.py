@@ -1,16 +1,22 @@
+fim = int(input('fim: '))
 fibonacci = []
 primeiro = 0
-fibonacci.append(primeiro)
+if len(fibonacci) < fim:
+    fibonacci.append(primeiro)
 segundo = 1
-fibonacci.append(segundo)
-fim = int(input('fim: '))
+if len(fibonacci) < fim:
+    fibonacci.append(segundo)
 for c in range(0, fim):
     terceiro = primeiro + segundo
-    fibonacci.append(terceiro)
+    if len(fibonacci) < fim:
+        fibonacci.append(terceiro)
     quarto = terceiro + segundo
-    fibonacci.append(quarto)
+    if len(fibonacci) < fim:
+        fibonacci.append(quarto)
     primeiro = terceiro + quarto
     segundo = quarto + primeiro
-    fibonacci.append(primeiro)
-    fibonacci.append(segundo)
-print(fibonacci[:fim])
+    if len(fibonacci) < fim:
+        fibonacci.append(primeiro)
+    if len(fibonacci) < fim:
+     fibonacci.append(segundo)
+print(fibonacci)
