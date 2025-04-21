@@ -1,13 +1,16 @@
+fibonacci = []
 primeiro = 0
+fibonacci.append(primeiro)
 segundo = 1
-print(primeiro, end=' ')
-print(segundo, end=' ')
-for c in range(0, 3):
+fibonacci.append(segundo)
+fim = int(input('fim: '))
+for c in range(0, fim):
     terceiro = primeiro + segundo
-    print(terceiro, end=' ')
+    fibonacci.append(terceiro)
     quarto = terceiro + segundo
-    print(quarto, end=' ')
+    fibonacci.append(quarto)
     primeiro = terceiro + quarto
     segundo = quarto + primeiro
-    print(primeiro, end=' ')
-    print(segundo, end=' ')
+    fibonacci.append(primeiro)
+    fibonacci.append(segundo)
+print(fibonacci[:fim])
