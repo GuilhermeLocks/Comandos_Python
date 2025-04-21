@@ -1,1 +1,4 @@
-print(5/6)
+naruto = []
+naruto.append(str('df'))
+naruto.append(str('df'))
+print(naruto)
