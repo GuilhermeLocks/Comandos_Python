@@ -27,6 +27,7 @@ while termos != limite:
 
         limite_novo = input('''Quantos passo a mais ? [s] para sair ?
 ''').upper()
+
         if limite_novo.isnumeric() == True:
             limite += int(limite_novo)
         elif limite_novo == 'S':
