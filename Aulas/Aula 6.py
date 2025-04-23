@@ -1,0 +1,12 @@
+print('Tipos primitivos')
+n1 = int(input('Digite um numero:'))
+n2 = int(input('Digite outro numero:'))
+soma = n1 + n2
+print('A soma dos numeros e:',soma )
+print('A soma dos numeros e: {}'.format(soma))
+print('a soma {} e {} resulta em {}'.format(n1, n2, soma))
+print(type(soma))
+print('int 7 -4 9875')
+print('float 4.5 0.076 7.0')
+print('bool True False')
+print('str Olá')
