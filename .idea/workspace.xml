@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,55 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula 14.executor": "Run",
+    "Python.Aula 7.executor": "Run",
+    "Python.Aula 9.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.naruto 2.executor": "Run",
+    "Python.naruto3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.ex067">
-    <configuration name="ex064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Comandos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/ex064.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Python.ex068">
     <configuration name="ex065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -143,6 +128,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex068.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="naruto3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -167,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex068" />
         <item itemvalue="Python.ex067" />
         <item itemvalue="Python.ex066" />
         <item itemvalue="Python.naruto3" />
         <item itemvalue="Python.ex065" />
-        <item itemvalue="Python.ex064" />
       </list>
     </recent_temporary>
   </component>
