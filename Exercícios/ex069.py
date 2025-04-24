@@ -1,5 +1,4 @@
 maior = masc = mulher = 0
-
 while True:
     print('-'*30)
     print('CADASTRE UMA PESSOA')
