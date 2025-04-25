@@ -1,7 +1,0 @@
-n1 = input('digite algo:')
-print('Só tem espaços?', n1.isspace())
-print('É um número?', n1.isnumeric())
-print('É alfabético?' ,n1.isalpha())
-print('Está em maiúsculas?', n1.isupper())
-print('Está em minúsculas?', n1.islower())
-print('Está capitalizado?', n1.istitle())
