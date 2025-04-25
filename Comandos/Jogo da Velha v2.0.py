@@ -115,6 +115,7 @@ while True:
         elif linha_13 == 'o':
             result = 'o'
             break
+
     jogo = random.randint(0, len(jogadas_diponiveis)-1)
     jogo = jogadas_diponiveis[jogo]
     if jogo == 1:
@@ -135,6 +136,7 @@ while True:
         linha_32 = 'o'
     if jogo == 9:
         linha_33 = 'o'
+
     # verifica se alguem ganhou
     if linha_11 == linha_12 == linha_13:
         if linha_11 == 'x':
