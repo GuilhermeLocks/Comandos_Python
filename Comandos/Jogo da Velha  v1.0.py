@@ -493,47 +493,47 @@ while True:
     # jogadas
     print(jogo)
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 0 and linha_11 == '1':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 0 and linha_11 == '1':
             linha_11 = 'o'
             jogadas_diponiveis.remove(1)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 1 and linha_12 == '2':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 1 and linha_12 == '2':
             linha_12 = 'o'
             jogadas_diponiveis.remove(2)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 2 and linha_13 == '3':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 2 and linha_13 == '3':
             linha_13 = 'o'
             jogadas_diponiveis.remove(3)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 3 and linha_21 == '4':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 3 and linha_21 == '4':
             linha_21 = 'o'
             jogadas_diponiveis.remove(4)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 4 and linha_22 == '5':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 4 and linha_22 == '5':
             linha_22 = 'o'
             jogadas_diponiveis.remove(5)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 5 and linha_23 == '6':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 5 and linha_23 == '6':
             linha_23 = 'o'
             jogadas_diponiveis.remove(6)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 6 and linha_31 == '7':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 6 and linha_31 == '7':
             linha_31 = 'o'
             jogadas_diponiveis.remove(7)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 7 and linha_32 == '8':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 7 and linha_32 == '8':
             linha_32 = 'o'
             jogadas_diponiveis.remove(8)
             jogo += 1
     if jogo == 0:
-        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis)))] == 8 and linha_33 == '9':
+        if jogadas_diponiveis[random.randint(0, (len(jogadas_diponiveis))-1)] == 8 and linha_33 == '9':
             linha_33 = 'o'
             jogadas_diponiveis.remove(9)
             jogo += 1
