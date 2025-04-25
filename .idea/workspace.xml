@@ -5,83 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Aula 9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comandos/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex017.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex018.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex021.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex028.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex030.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex031.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex032.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex033.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex034.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex035.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex036.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex038.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex039.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex040.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex041.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex042.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex044.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex045.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex049.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex051.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex052.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex053.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex054.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex055.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex057.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex059.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex060.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex061.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex062.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex064.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex065.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex066.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/ex067.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/naruto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comandos/naruto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comandos/Rascunho de jogo da velha.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +35,7 @@
     "Python.Aula 14.executor": "Run",
     "Python.Aula 7.executor": "Run",
     "Python.Aula 9.executor": "Run",
+    "Python.Rascunho de jogo da velha.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex004.executor": "Run",
     "Python.ex056.executor": "Run",
@@ -138,7 +63,29 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.naruto">
+  <component name="RunManager" selected="Python.Rascunho de jogo da velha">
+    <configuration name="Rascunho de jogo da velha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Comandos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/Rascunho de jogo da velha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -153,28 +100,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/ex001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex071.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rascunho de jogo da velha" />
         <item itemvalue="Python.naruto" />
         <item itemvalue="Python.naruto3" />
         <item itemvalue="Python.naruto 2" />
         <item itemvalue="Python.ex001" />
-        <item itemvalue="Python.ex071" />
       </list>
     </recent_temporary>
   </component>
