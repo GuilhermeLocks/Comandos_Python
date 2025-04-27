@@ -10,6 +10,7 @@ linha_31 = '7'
 linha_32 = '8'
 linha_33 = '9'
 result = ''
+jogada = 0
 while True:
     #jogo
     print('-'*30)
@@ -59,6 +60,7 @@ while True:
                 if c == 9:
                     linha_33 = 'x'
     # verifica se alguem ganhou
+
     if linha_11 == linha_12 == linha_13:
         if linha_11 == 'x':
             result = 'x'
@@ -115,28 +117,32 @@ while True:
         elif linha_13 == 'o':
             result = 'o'
             break
-
-    jogo = random.randint(0, len(jogadas_diponiveis)-1)
-    jogo = jogadas_diponiveis[jogo]
-    if jogo == 1:
-        linha_11 = 'o'
-    if jogo == 2:
-        linha_12 = 'o'
-    if jogo == 3:
-        linha_13 = 'o'
-    if jogo == 4:
-        linha_21 = 'o'
-    if jogo == 5:
-        linha_22 = 'o'
-    if jogo == 6:
-        linha_23 = 'o'
-    if jogo == 7:
-        linha_31 = 'o'
-    if jogo == 8:
-        linha_32 = 'o'
-    if jogo == 9:
+    if jogada == 0:
+        jogo = random.randint(0, len(jogadas_diponiveis)-1)
+        jogo = jogadas_diponiveis[jogo]
+        if jogo == 1:
+            linha_11 = 'o'
+        if jogo == 2:
+            linha_12 = 'o'
+        if jogo == 3:
+            linha_13 = 'o'
+        if jogo == 4:
+            linha_21 = 'o'
+        if jogo == 5:
+            linha_22 = 'o'
+        if jogo == 6:
+            linha_23 = 'o'
+        if jogo == 7:
+            linha_31 = 'o'
+        if jogo == 8:
+            linha_32 = 'o'
+        if jogo == 9:
+            linha_33 = 'o'
+#####
+    if linha_11 == 'x' and linha_33 == '0' and jogadas_diponiveis == '2, 3, 4, 5, 6, 7, 8':
         linha_33 = 'o'
-
+    elif linha_11 == 'x' and linha_33 == '0':
+#####
     # verifica se alguem ganhou
     if linha_11 == linha_12 == linha_13:
         if linha_11 == 'x':

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Comandos/Jogo da Velha v2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Comandos/Jogo da Velha v2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comandos/Jogo da Velha v2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comandos/Teste def.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comandos/Teste def.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,44 +33,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha  v1.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rascunho de jogo da velha.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.janela.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula 14.executor": "Run",
+    "Python.Aula 7.executor": "Run",
+    "Python.Aula 9.executor": "Run",
+    "Python.Jogo da Velha  v1.0.executor": "Run",
+    "Python.Jogo da Velha v1.5.executor": "Run",
+    "Python.Jogo da Velha v2.0.executor": "Run",
+    "Python.Jogo da Velha v2.5.executor": "Run",
+    "Python.Rascunho de jogo da velha.executor": "Run",
+    "Python.Teste def.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.janela.executor": "Run",
+    "Python.naruto 2.executor": "Run",
+    "Python.naruto.executor": "Run",
+    "Python.naruto3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.Jogo da Velha v2.0">
+}]]></component>
+  <component name="RunManager" selected="Python.Jogo da Velha v2.5">
     <configuration name="Jogo da Velha  v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -134,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rascunho de jogo da velha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Jogo da Velha v2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/Rascunho de jogo da velha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/Jogo da Velha v2.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="janela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Teste def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/janela.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comandos/Teste def.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jogo da Velha v2.5" />
+        <item itemvalue="Python.Teste def" />
         <item itemvalue="Python.Jogo da Velha v2.0" />
         <item itemvalue="Python.Jogo da Velha  v1.0" />
         <item itemvalue="Python.Jogo da Velha v1.5" />
-        <item itemvalue="Python.janela" />
-        <item itemvalue="Python.Rascunho de jogo da velha" />
       </list>
     </recent_temporary>
   </component>
