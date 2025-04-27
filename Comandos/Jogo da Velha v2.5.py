@@ -41,25 +41,33 @@ while True:
     for c in range(1, 10):
         if jogada == c:
             if c in jogadas_diponiveis:
-                jogadas_diponiveis.remove(c)
                 if c == 1:
                     linha_11 = 'x'
+                    jogadas_diponiveis.remove(1)
                 if c == 2:
                     linha_12 = 'x'
+                    jogadas_diponiveis.remove(2)
                 if c == 3:
                     linha_13 = 'x'
+                    jogadas_diponiveis.remove(3)
                 if c == 4:
                     linha_21 = 'x'
+                    jogadas_diponiveis.remove(4)
                 if c == 5:
                     linha_22 = 'x'
+                    jogadas_diponiveis.remove(5)
                 if c == 6:
                     linha_23 = 'x'
+                    jogadas_diponiveis.remove(6)
                 if c == 7:
                     linha_31 = 'x'
+                    jogadas_diponiveis.remove(7)
                 if c == 8:
                     linha_32 = 'x'
+                    jogadas_diponiveis.remove(8)
                 if c == 9:
                     linha_33 = 'x'
+                    jogadas_diponiveis.remove(9)
 
     # verifica se alguem ganhou
     if linha_11 == linha_12 == linha_13:
@@ -130,7 +138,7 @@ while True:
                 break
         elif linha_11 == 'o' and linha_12 == 'o':
             if linha_13 == '3':
-                linha_12 = 'o'
+                linha_13 = 'o'
                 jogadas_diponiveis.remove(3)
                 result = 'o'
                 break
@@ -154,7 +162,7 @@ while True:
                 break
         elif linha_22 == 'o' and linha_23 == 'o':
             if linha_21 == '4':
-                linha_22 = 'o'
+                linha_21 = 'o'
                 jogadas_diponiveis.remove(4)
                 result = 'o'
                 break
@@ -275,11 +283,12 @@ while True:
         if linha_11 == 'x' and linha_13 == 'x':
             if linha_12 == '2':
                 linha_12 = 'o'
+                print('erro')
                 jogadas_diponiveis.remove(2)
                 jogo += 1
         elif linha_11 == 'x' and linha_12 == 'x':
             if linha_13 == '3':
-                linha_12 = 'o'
+                linha_13 = 'o'
                 jogadas_diponiveis.remove(3)
                 jogo += 1
         elif linha_12 == 'x' and linha_13 == 'x':
@@ -294,12 +303,12 @@ while True:
                 jogo += 1
         elif linha_21 == 'x' and linha_22 == 'x':
             if linha_23 == '6':
-                linha_22 = 'o'
+                linha_23 = 'o'
                 jogadas_diponiveis.remove(6)
                 jogo += 1
         elif linha_22 == 'x' and linha_23 == 'x':
             if linha_21 == '4':
-                linha_22 = 'o'
+                linha_21 = 'o'
                 jogadas_diponiveis.remove(4)
                 jogo += 1
         elif linha_31 == 'x' and linha_33 == 'x':
@@ -396,11 +405,26 @@ while True:
 
 ##### jogada computador
     if jogo == 0:
-
         if jogada_computador == 0:
-            if linha_22 == '5':
-                linha_22 = 'o'
-                jogo += 1
+            if linha_22 == 'x':
+                if linha_13 == '3':
+                    linha_13 = 'o'
+                    jogadas_diponiveis.remove(3)
+                elif linha_11 == '1':
+                    linha_11 = 'o'
+                    jogadas_diponiveis.remove(1)
+                elif linha_31 == '7':
+                    linha_31 = 'o'
+                    jogadas_diponiveis.remove(7)
+                elif linha_33 == '9':
+                    linha_33 = 'o'
+                    jogadas_diponiveis.remove(9)
+            if linha_11 == 'x' or linha_13 == 'x' or linha_31 == 'x' or linha_33 == 'o':
+                    if linha_22 == '5':
+                        linha_22 = 'o'
+                        jogadas_diponiveis.remove(5)
+
+
 
 
 
