@@ -1,3 +1,2 @@
-print('Ola, mundo!')
-print(int(2+3))
-print('ola, mundo!')
+msg = 'Olá, Mundo!'
+print(msg)
