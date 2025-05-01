@@ -5,87 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 1/Aula 10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 1/Aula 6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 1/Aula 7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 1/Aula 8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 1/Aula 9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 2/Aula 11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 2/Aula 12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 2/Aula 13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 2/Aula 14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Mundo Python 3/Aula 16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex017.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex018.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex021.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex028.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex030.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex031.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex032.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex033.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex034.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 1/ex035.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex036.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex038.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex039.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex040.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex041.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex042.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex044.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex045.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex049.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex051.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex052.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex053.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex054.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex055.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex057.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex059.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex060.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex061.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex062.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex064.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex065.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex066.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex067.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex069.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Mundo Python 3/ex072.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Aula 14.executor": "Run",
+    "Python.Aula 16 (1).executor": "Run",
     "Python.Aula 16.executor": "Run",
     "Python.Aula 7.executor": "Run",
     "Python.Aula 9.executor": "Run",
@@ -155,6 +77,7 @@
     "Python.ex070.executor": "Run",
     "Python.ex071.executor": "Run",
     "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
     "Python.janela.executor": "Run",
     "Python.naruto 2.executor": "Run",
     "Python.naruto.executor": "Run",
@@ -172,7 +95,29 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex072">
+  <component name="RunManager" selected="Python.ex073">
+    <configuration name="Aula 16 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Aulas/Aula 16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Aula 16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -187,50 +132,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Mundo Python 3/Aula 16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios/Mundo Python 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex053.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex058" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios/Mundo Python 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Mundo Python 2/ex058.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,13 +184,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex073.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex073" />
+        <item itemvalue="Python.Aula 16 (1)" />
         <item itemvalue="Python.ex072" />
         <item itemvalue="Python.Aula 16" />
         <item itemvalue="Python.ex060" />
-        <item itemvalue="Python.ex058" />
-        <item itemvalue="Python.ex053" />
       </list>
     </recent_temporary>
   </component>
