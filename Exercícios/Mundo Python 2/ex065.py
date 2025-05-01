@@ -22,7 +22,7 @@ while True:
         menor = valor
 
     else:
-        print('Invalido, tente mpvamente.')
+        print('Invalido, tente novamente.')
     continuar = input('Quer continuar? [S/N]: ').upper()
 
     if continuar == 'N':
