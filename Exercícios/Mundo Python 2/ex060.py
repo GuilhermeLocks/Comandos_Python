@@ -3,9 +3,10 @@ while True:
     fator = input('Digite um número para calcular seu fatorial: ')
     if fator.isnumeric() == True:
         fator = int(fator)
+        break
     else:
         print('Número invalido, tente novamente')
-    for c in range(fator - 1, 0, -1):
-        fator *= c
-    break
+for c in range(fator - 1, 0, -1):
+    fator *= c
+
 print(fator)
