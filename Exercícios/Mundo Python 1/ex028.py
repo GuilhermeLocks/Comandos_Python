@@ -7,3 +7,7 @@ if n1 == n2:
     print('procesando')
     time.sleep(5)
     print('acertou')
+if n1 != n2:
+    print('procesando')
+    time.sleep(5)
+    print('acertou')

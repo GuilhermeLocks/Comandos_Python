@@ -1,4 +1,4 @@
-import randomgjgshj
+import random
 n1 = input('Primeiro nome:')
 n2 = input('Segundo nome:')
 n3 = input('Terceiro nome:')
