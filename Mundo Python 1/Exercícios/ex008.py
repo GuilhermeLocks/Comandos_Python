@@ -1,4 +1,10 @@
-n1 = float(input('Uma distância em metros: '))
+while True:
+    n1 = input('Uma distância em metros: ')
+    if n1.isnumeric() == True:
+        n1 = float(n1)
+        break
+    else:
+        print('Distância invalida, tente novamente.')
 print('A medida em {} corresponde a'.format(n1))
 print('{}Km'.format(n1/1000))
 print('{}Hm'.format(n1/100))
