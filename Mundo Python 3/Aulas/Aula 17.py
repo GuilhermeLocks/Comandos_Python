@@ -24,7 +24,7 @@ valores = list(range(1, 11))
 for c in valores:
     print(c, end=' ')
 print('')
-valor = [5, 6, 8, 9, 3, 4, 2, 7, 1, 10]
+valor = [5, 6, 8, 9, 3, 4, 2, 7, 1, 10, 0]
 for c in valor:
     print(c, end=' ')
 print('')
@@ -36,4 +36,7 @@ valor.sort(reverse=True)
 for c in valor:
     print(c, end=' ')
 print('')
+valor.sort()
 print(len(valor))
+for c, v in enumerate(valor):
+    print('Na posição {} encontrei o valor {}!'.format(c, v))
