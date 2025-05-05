@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex079.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,72 +30,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 16 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha  v1.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rascunho de jogo da velha.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Teste def.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex073.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex078.executor&quot;: &quot;Run&quot;,
-    &quot;Python.janela.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula 14.executor": "Run",
+    "Python.Aula 16 (1).executor": "Run",
+    "Python.Aula 16.executor": "Run",
+    "Python.Aula 17.executor": "Run",
+    "Python.Aula 7.executor": "Run",
+    "Python.Aula 9.executor": "Run",
+    "Python.Jogo da Velha  v1.0.executor": "Run",
+    "Python.Jogo da Velha v1.5.executor": "Run",
+    "Python.Jogo da Velha v2.0.executor": "Run",
+    "Python.Jogo da Velha v2.5.executor": "Run",
+    "Python.Rascunho de jogo da velha.executor": "Run",
+    "Python.Teste def.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.janela.executor": "Run",
+    "Python.naruto 2.executor": "Run",
+    "Python.naruto.executor": "Run",
+    "Python.naruto3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 2" />
@@ -103,7 +104,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex078">
+  <component name="RunManager" selected="Python.ex079">
     <configuration name="Aula 17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -170,28 +171,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex077.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ex078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -214,13 +193,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex079.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex079" />
         <item itemvalue="Python.ex078" />
         <item itemvalue="Python.Aula 17" />
         <item itemvalue="Python.ex014" />
         <item itemvalue="Python.ex013" />
-        <item itemvalue="Python.ex077" />
       </list>
     </recent_temporary>
   </component>
