@@ -17,6 +17,5 @@ while continuar != 'N':
             print('Comando invalido, tente novamente.')
         elif continuar == 'S' or continuar == 'N':
             break
-
 print('-='*40)
 print('Você digitou os valores {}'.format(lista))
