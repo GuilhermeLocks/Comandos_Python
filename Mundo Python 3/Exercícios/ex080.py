@@ -14,9 +14,12 @@ for c in range(0, 5):
         valor.insert(0, numero)
         print('Adicionado no começo da lista...')
 
-    elif numero < valor[c-1] and numero > valor[c-2]:
-        valor.insert(c-1, numero)
-        print('Adicionado na posição {} da lista...'.format(c-1))
+    else:
 
-print('-='*40)
+        for c in range(0, len(valor)):
+            if numero > valor[c]:
+                print('Adicionado na posição {} da lista...'.format(c + 1))
+                valor.insert(c + 1, numero)
+
+print('-=' * 40)
 print('Os valores digitados em ordem foram {}'.format(valor))
