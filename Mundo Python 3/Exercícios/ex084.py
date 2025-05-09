@@ -13,15 +13,8 @@ while continuar != 'N':
         else:
             print('nome invalido, tente novamente.')
 
-
-    while True:
-        peso = input('Peso:')
-        if peso.isalpha() == False and peso.isalnum() == True:
-            pessoa.append(peso)
-            peso = float(peso)
-            break
-        else:
-            print('peso invalido, tente novamente.')
+    peso = float(input('Peso:'))
+    pessoa.append(peso)
 
     if maior < peso:
         maior = peso
@@ -45,6 +38,13 @@ while continuar != 'N':
         else:
             print('Comando invalido, tente novamente')
 print('Ao todo, você cadastrou {} pessoas.'.format(cont))
-print('O maior peso foi de {}Kg. Peso de '.format(maior))
-print('O menor peso foi {}Kg. Peso de '.format(menor))
-print(lista_pessoa)
+print('O maior peso foi de {}Kg. Peso de '.format(maior), end=' ')
+for c in lista_pessoa:
+    if c[1] == maior:
+        print(c[0], end=' ')
+print('')
+print('O menor peso foi {}Kg. Peso de '.format(menor), end=' ')
+for c in lista_pessoa:
+    if c[1] == menor:
+        print(c[0], end=' ')
+print('')
