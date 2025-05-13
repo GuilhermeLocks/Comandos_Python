@@ -10,4 +10,4 @@ print(dados.values())
 print(dados.keys())
 print(dados.items())
 for k, v in dados.items():
-    print(k, v)
+    print(k, v) 
