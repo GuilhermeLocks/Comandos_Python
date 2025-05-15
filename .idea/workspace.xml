@@ -117,7 +117,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex089">
+  <component name="RunManager" selected="Python.Aula 19">
     <configuration name="Aula 19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -230,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 19" />
         <item itemvalue="Python.ex089" />
         <item itemvalue="Python.ex088" />
         <item itemvalue="Python.ex087" />
         <item itemvalue="Python.ex086" />
-        <item itemvalue="Python.Aula 19" />
       </list>
     </recent_temporary>
   </component>
