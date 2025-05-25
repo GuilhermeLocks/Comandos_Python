@@ -1,10 +1,4 @@
-while True:
-    n1 = input('Digite um número para ver sua tabuada:')
-    if n1.isnumeric() == True:
-        n1 = int(n1)
-        break
-    else:
-        print('Número invalido, tente novamente.')
+n1 = int(input('Digite um número para ver sua tabuada:'))
 print('_'*20)
 print('{} x  {} = {}'.format(n1, 1, (n1*1)))
 print('{} x  {} = {}'.format(n1, 2, (n1*2)))

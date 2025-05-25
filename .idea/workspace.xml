@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex014.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +61,7 @@
     "Python.ex001.executor": "Run",
     "Python.ex004.executor": "Run",
     "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
     "Python.ex013.executor": "Run",
     "Python.ex014.executor": "Run",
     "Python.ex021.executor": "Run",
@@ -121,8 +136,8 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex096">
-    <configuration name="ex092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex007">
+    <configuration name="ex007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 1/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex092.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 1/Exercícios/ex007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex007" />
         <item itemvalue="Python.ex096" />
         <item itemvalue="Python.ex095" />
         <item itemvalue="Python.ex093" />
         <item itemvalue="Python.ex094" />
-        <item itemvalue="Python.ex092" />
       </list>
     </recent_temporary>
   </component>
