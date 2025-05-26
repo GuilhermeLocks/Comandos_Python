@@ -3,6 +3,8 @@ def contador(i, f, p):
     print('Contador de {} até {} de {} em {}'.format(i, f, p, p))
     if p < 0:
         f -= 1
+    elif p > 0:
+        f += 1
     for c in range(i, f, p):
         print(c, end=' ')
         time.sleep(0.5)
