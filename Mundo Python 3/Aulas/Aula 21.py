@@ -11,19 +11,22 @@ def contador(i=0, f=20, p=2):
     :param p: utilizar p para o passo do contador
     :return:
     '''
+    global n
     if p > 0:
         f += 1
     elif p < 0:
         f -= 1
     for c in range(i, f, p):
         print(c, end=' ')
+    print()
     n = 0
     print('n = ',n)
-contador(10, 0, -1)
-print()
-contador(0, 10, 1)
-print()
+#contador(10, 0, -1)
+#print()
+#contador(0, 10, 1)
+#print()
+#contador()
+#print()
+#help(contador)
 contador()
-print()
-help(contador)
 print('n = ',n)
