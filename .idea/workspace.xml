@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex102.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex102.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex106.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex106.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +115,7 @@
     &quot;Python.ex099.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex100.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex102.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex106.executor&quot;: &quot;Run&quot;,
     &quot;Python.janela.executor&quot;: &quot;Run&quot;,
     &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
@@ -133,7 +135,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Aulas\Mundo Python 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex106">
+  <component name="RunManager" selected="Python.ex102">
     <configuration name="Aula 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -148,28 +150,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Aulas/Aula 21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,6 +202,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex102.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -246,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex102" />
         <item itemvalue="Python.ex106" />
         <item itemvalue="Python.ex101" />
         <item itemvalue="Python.Aula 21" />
         <item itemvalue="Python.ex100" />
-        <item itemvalue="Python.ex099" />
       </list>
     </recent_temporary>
   </component>

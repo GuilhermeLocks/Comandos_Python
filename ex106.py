@@ -16,26 +16,37 @@ def numero_flutuante(a):
         print('ERRO')
         print(len(a), cont, cont_ponto)
         return 0
-def numero_inteiro(a):
-    if a.isnumeric() == True:
-        return 1
-    else:
-        return True
+
 def palavra(a):
     if a.isalpha() == True:
         return 'str'
     else:
         return True
 
-verificador = True
-while type(verificador) != int:
-    verificador = numero_inteiro(input('Digite um número inteiro: '))
+#def numero_inteiro(a):
+#    if a.isnumeric() == True:
+#        return 1
+#    else:
+#        return True
+
+#verificador = True
+#while type(verificador) != int:
+#    verificador = numero_inteiro(input('Digite um número inteiro: '))
+
+def numero_inteiro(a):
+
+    if a.isnumeric() == True:
+        return int(a)
+    else:
+        numero_inteiro(input('Digite um valor: '))
+
+numero_inteiro(input('Digite um valor: '))
 
 verificador = True
-while type(verificador) != str:
-    verificador = palavra(input('Digite uma palavra: '))
+#while type(verificador) != str:
+#    verificador = palavra(input('Digite uma palavra: '))
 
-verificador = True
-while type(verificador) != type:
-    verificador = numero_flutuante(input('Digite um numero com ponto: '))
+#verificador = True
+#while type(verificador) != type:
+#    verificador = numero_flutuante(input('Digite um numero com ponto: '))
 
