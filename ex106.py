@@ -20,24 +20,22 @@ def numero_inteiro(a):
     if a.isnumeric() == True:
         return 1
     else:
-        print('ERRO!')
-        return  0
+        return True
 def palavra(a):
     if a.isalpha() == True:
-        return 1
+        return 'str'
     else:
-        print('ERRO!')
-        return  0
+        return True
 
-verificador = 0
-while verificador == 0:
+verificador = True
+while type(verificador) != int:
     verificador = numero_inteiro(input('Digite um número inteiro: '))
 
-verificador = 0
-while verificador == 0:
+verificador = True
+while type(verificador) != str:
     verificador = palavra(input('Digite uma palavra: '))
 
-verificador = 0
-while verificador == 0:
+verificador = True
+while type(verificador) != type:
     verificador = numero_flutuante(input('Digite um numero com ponto: '))
 
