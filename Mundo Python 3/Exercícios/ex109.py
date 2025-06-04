@@ -1,4 +1,4 @@
-import ex109_moeda
+from utilidades.ex109_moeda import ex109_moeda
 
 p = float(input('Digite o preço: R$'))
 print('A metade de R${} é R${}'.format(ex109_moeda.formatar(p, True), ex109_moeda.metade(p, True)))
