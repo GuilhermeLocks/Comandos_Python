@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/utilidades/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilidades/ex107_moeda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilidades/ex108_moeda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilidades/ex109_moeda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilidades/ex110_moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex107.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex107_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilidades/ex107_moeda/ex107_moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex108.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex108_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilidades/ex108_moeda/ex108_moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex109_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilidades/ex109_moeda/ex109_moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex110_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilidades/ex110_moeda/ex110_moeda.py" afterDir="false" />
-    </list>
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
