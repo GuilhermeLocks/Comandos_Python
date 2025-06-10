@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Comandos/Jogo da Velha  v1.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Jogo da Velha v1.5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Jogo da Velha v2.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Jogo da Velha v2.5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Senhas v1.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/Teste def.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comandos/janela.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex112.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex112.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex113.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex113.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +151,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades\ex110_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex112">
+  <component name="RunManager" selected="Python.ex113">
     <configuration name="Aula 9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -293,10 +286,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex113" />
         <item itemvalue="Python.ex112" />
         <item itemvalue="Python.ex110" />
         <item itemvalue="Python.Aula 9" />
-        <item itemvalue="Python.ex113" />
         <item itemvalue="Python.ex107" />
       </list>
     </recent_temporary>
