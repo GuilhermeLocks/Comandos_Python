@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Básico de POO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Classe Base Pessoa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Herança.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Calculo de Bônus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Classe Base Pessoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/Copilot/Classe Base Pessoa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,9 @@
     "Python.Aula 7.executor": "Run",
     "Python.Aula 9.executor": "Run",
     "Python.Básico de POO.executor": "Run",
+    "Python.Calculo de Bônus.executor": "Run",
     "Python.Car.executor": "Run",
+    "Python.Classe Base Pessoa.executor": "Run",
     "Python.Herança.executor": "Run",
     "Python.Jogo da Velha  v1.0.executor": "Run",
     "Python.Jogo da Velha v1.5.executor": "Run",
@@ -182,7 +183,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Herança">
+  <component name="RunManager" selected="Python.Calculo de Bônus">
     <configuration name="Básico de POO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -205,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculo de Bônus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,11 +215,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Bro Code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Bro Code/Car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Calculo de Bônus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Classe Base Pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Classe Base Pessoa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,35 +294,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex116" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo Python 3/Exercícios/ex116.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculo de Bônus" />
+        <item itemvalue="Python.Classe Base Pessoa" />
         <item itemvalue="Python.Herança" />
         <item itemvalue="Python.Básico de POO" />
         <item itemvalue="Python.Poo" />
-        <item itemvalue="Python.Car" />
-        <item itemvalue="Python.ex116" />
       </list>
     </recent_temporary>
   </component>
