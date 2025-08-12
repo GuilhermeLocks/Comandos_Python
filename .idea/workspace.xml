@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poo/Google/Poo e herança.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/Google/Poo e herança.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Classes abstratas e interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/Copilot/Classes abstratas e interfaces.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.Calculo de Bônus.executor": "Run",
     "Python.Car.executor": "Run",
     "Python.Classe Base Pessoa.executor": "Run",
+    "Python.Classes abstratas e interfaces.executor": "Run",
     "Python.Encapsulamento com propriedades.executor": "Run",
     "Python.Herança múltipla.executor": "Run",
     "Python.Herança.executor": "Run",
@@ -186,8 +187,8 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Poo e herança">
-    <configuration name="Calculo de Bônus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Classes abstratas e interfaces">
+    <configuration name="Classes abstratas e interfaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Calculo de Bônus.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Classes abstratas e interfaces.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Classes abstratas e interfaces" />
         <item itemvalue="Python.Poo e herança" />
         <item itemvalue="Python.Herança múltipla" />
         <item itemvalue="Python.objetos dentro de objetos" />
         <item itemvalue="Python.Encapsulamento com propriedades" />
-        <item itemvalue="Python.Calculo de Bônus" />
       </list>
     </recent_temporary>
   </component>
