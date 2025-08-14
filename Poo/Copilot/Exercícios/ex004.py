@@ -12,3 +12,4 @@ class triatleta(nadador, corredor):
 t = triatleta()
 t.nadar()
 t.correr()
+corredor().correr()
