@@ -19,8 +19,17 @@ class contabancaria:
     def saldo(self):
         print(self.saldo)
 
+    def mostrar_saldo(self):
+        print(f'Saldo: {self.saldo}')
+
+class contapoupanca(contabancaria):
+    def render_juros(self):
+        self.deposito(self.saldo * 0.02)
+
 cb = contabancaria()
 
 cb.depositar(1000)
 
 cb.sacar(100)
+
+cb.mostrar_saldo()
