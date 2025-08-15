@@ -1,15 +1,14 @@
-class nadador:
+class Nadador:
     def nadar(self):
-        print('nada')
+        print("Nadando...")
 
-class corredor:
+class Corredor:
     def correr(self):
-        print('corre')
+        print("Correndo...")
 
-class triatleta(nadador, corredor):
+class Triatleta(Nadador, Corredor):
     pass
 
-t = triatleta()
+t = Triatleta()
 t.nadar()
 t.correr()
-corredor().correr()

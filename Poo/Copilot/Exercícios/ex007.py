@@ -1,16 +1,15 @@
-class funcionario:
+class Funcionario:
     def calcular_bonus(self):
         return 1000
 
-class gerente:
+class Gerente(Funcionario):
     def calcular_bonus(self):
         return 3000
 
-class estagiario:
+class Estagiario(Funcionario):
     def calcular_bonus(self):
         return 500
 
-lista = [funcionario(), gerente(), estagiario()]
-
+lista = [Funcionario(), Gerente(), Estagiario()]
 for pessoa in lista:
-    print(f'Bônus: R${pessoa.calcular_bonus()}')
+    print(f"Bônus: R${pessoa.calcular_bonus()}")

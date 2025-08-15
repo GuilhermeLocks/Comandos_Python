@@ -1,35 +1,23 @@
-class contabancaria:
-
+class ContaBancaria:
     def __init__(self):
-        self.saldo = 0
+        self.__saldo = 0
 
-    def depositar(self, deposito):
-        self.deposito = deposito
-        self.saldo += self.deposito
-        print(f'saldo: {self.saldo}, deposito: {self.deposito}')
+    def depositar(self, valor):
+        if valor > 0:
+            self.__saldo += valor
 
-    def sacar(self, sacar):
-        self.sacar = sacar
-        if self.saldo >= self.sacar:
-            self.saldo -= self.sacar
-            print(f'saldo: {self.saldo}, sacado: {self.sacar}')
-        else:
-            print('Saldo insuficiente')
-
-    def saldo(self):
-        print(self.saldo)
+    def sacar(self, valor):
+        if 0 < valor <= self.__saldo:
+            self.__saldo -= valor
 
     def mostrar_saldo(self):
-        print(f'Saldo: {self.saldo}')
+        print(f"Saldo: R${self.__saldo}")
 
-class contapoupanca(contabancaria):
+class ContaPoupanca(ContaBancaria):
     def render_juros(self):
-        self.deposito(self.saldo * 0.02)
+        self.depositar(self.__saldo * 0.02)  # erro proposital: __saldo é privado
 
-cb = contabancaria()
-
-cb.depositar(1000)
-
-cb.sacar(100)
-
-cb.mostrar_saldo()
+cp = ContaBancaria()
+cp.depositar(1000)
+cp.sacar(200)
+cp.mostrar_saldo()

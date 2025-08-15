@@ -1,18 +1,15 @@
-class animal:
+class Animal:
     def falar(self):
-        print('Som de animal')
+        print("Som genérico")
 
-class cachorro(animal):
-    def falar(self,):
-        print('Au, Au')
-
-class gato(animal):
+class Cachorro(Animal):
     def falar(self):
-        print('Miau, miau')
+        print("Au au!")
 
-animais = [cachorro(),gato()]
-for c in animais:
-    c.falar()
+class Gato(Animal):
+    def falar(self):
+        print("Miau!")
 
-cachorro().falar()
-gato().falar()
+animais = [Cachorro(), Gato()]
+for a in animais:
+    a.falar()

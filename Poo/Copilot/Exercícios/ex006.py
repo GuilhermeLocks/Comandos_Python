@@ -1,24 +1,24 @@
 from abc import ABC, abstractmethod
 
-class forma_geometrica(ABC):
+class FormaGeometrica(ABC):
     @abstractmethod
     def calcular_area(self):
         pass
 
-class quadrado(forma_geometrica):
+class Quadrado(FormaGeometrica):
     def __init__(self, lado):
         self.lado = lado
 
     def calcular_area(self):
         return self.lado ** 2
 
-class circulo(forma_geometrica):
+class Circulo(FormaGeometrica):
     def __init__(self, raio):
         self.raio = raio
 
     def calcular_area(self):
         return 3.14 * self.raio ** 2
 
-formas = [quadrado(4), circulo(3)]
-for c in formas:
-    print(f'Área: {c.calcular_area()}')
+formas = [Quadrado(4), Circulo(3)]
+for f in formas:
+    print(f"Área: {f.calcular_area()}")

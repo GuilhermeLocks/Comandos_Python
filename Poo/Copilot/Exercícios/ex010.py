@@ -1,21 +1,29 @@
-class produto:
+class Produto:
     def __init__(self, nome, preco):
         self.nome = nome
         self.preco = preco
 
-class livro(produto):
-    def __init__(self, nome, preco):
+class Livro(Produto):
+    def __init__(self, nome, preco, autor):
         super().__init__(nome, preco)
+        self.autor = autor
 
-class electronica(produto):
-    def __init__(self, nome, preco):
+class Eletronico(Produto):
+    def __init__(self, nome, preco, marca):
         super().__init__(nome, preco)
+        self.marca = marca
 
-class roupa(produto):
-    def __init__(self, nome, preco):
-        super().__init__(nome, preco)
+class Carrinho:
+    def __init__(self):
+        self.itens = []
 
-class carrinho(livro, electronica, roupa):
-    def __init__(self, nome, preco):
-        super().__init__(nome, preco)
-            
+    def adicionar(self, produto):
+        self.itens.append(produto)
+
+    def total(self):
+        return sum(p.preco for p in self.itens)
+
+c = Carrinho()
+c.adicionar(Livro("Python", 50, "Guido"))
+c.adicionar(Eletronico("Fone", 120, "Sony"))
+print(f"Total da compra: R${c.total()}")
