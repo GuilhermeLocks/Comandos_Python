@@ -13,3 +13,7 @@ class Gato(Animal):
 animais = [Cachorro(), Gato()]
 for a in animais:
     a.falar()
+print()
+Cachorro().falar()
+Gato().falar()
+Animal().falar()

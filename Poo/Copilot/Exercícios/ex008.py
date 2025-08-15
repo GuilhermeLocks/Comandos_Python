@@ -4,14 +4,14 @@ class Endereco:
         self.cidade = cidade
         self.estado = estado
 
-class Cliente:
-    def __init__(self, nome, endereco):
+class Cliente(Endereco):
+    def __init__(self, nome, endereco, rua, cidade, estado):
+        super().__init__(rua, cidade, estado)
         self.nome = nome
         self.endereco = endereco
 
     def mostrar_dados(self):
-        print(f"{self.nome} mora em {self.endereco.rua}, {self.endereco.cidade} - {self.endereco.estado}")
+        print(f"{self.nome} mora em {self.rua}, {self.cidade} - {self.estado}")
 
-e = Endereco("Rua A", "Tubarão", "SC")
-c = Cliente("Guilherme", e)
+c = Cliente("{nome}", '{endereco}', "{rua}", "{cidade}", "{estado}")
 c.mostrar_dados()

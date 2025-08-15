@@ -15,7 +15,7 @@ class ContaBancaria:
 
 class ContaPoupanca(ContaBancaria):
     def render_juros(self):
-        self.depositar(self.__saldo * 0.02)  # erro proposital: __saldo é privado
+        self.depositar(self.__saldo * 0.02)
 
 cp = ContaBancaria()
 cp.depositar(1000)

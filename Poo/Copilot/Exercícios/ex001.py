@@ -18,3 +18,8 @@ c = Carro("Toyota", "Corolla")
 m = Moto("Honda", "CB500")
 c.exibir_info()
 m.exibir_info()
+
+print()
+
+Carro("Toyota", "Corolla").exibir_info()
+Moto("Honda", "CB500").exibir_info()
