@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex012.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,142 +43,144 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 16 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Básico de POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculo de Bônus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classe Base Pessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classes abstratas e interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Encapsulamento com propriedades.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Herança múltipla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Herança.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha  v1.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Velha v2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Poo e herança.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Poo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rascunho de jogo da velha.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Teste def.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex073.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex078.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex079.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex080.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex081.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex082.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex083.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex084.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex085.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex086.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex087.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex088.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex089.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex090.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex091.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex092.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex093.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex094.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex095.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex096.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex097.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex098.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex099.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex101.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex102.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex103.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex104.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex105.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex106 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex106.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex107.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex108.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex109.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex110 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex110 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex110.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex112.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex113.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex114.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex115 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex115a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex115b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex115c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex116.executor&quot;: &quot;Run&quot;,
-    &quot;Python.janela.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.naruto3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.objetos dentro de objetos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guisi/PyCharmMiscProject/Comandos_Python/Mundo Python 3/Exercícios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula 14.executor": "Run",
+    "Python.Aula 16 (1).executor": "Run",
+    "Python.Aula 16.executor": "Run",
+    "Python.Aula 17.executor": "Run",
+    "Python.Aula 18.executor": "Run",
+    "Python.Aula 19.executor": "Run",
+    "Python.Aula 21.executor": "Run",
+    "Python.Aula 7.executor": "Run",
+    "Python.Aula 9.executor": "Run",
+    "Python.Básico de POO.executor": "Run",
+    "Python.Calculo de Bônus.executor": "Run",
+    "Python.Car.executor": "Run",
+    "Python.Classe Base Pessoa.executor": "Run",
+    "Python.Classes abstratas e interfaces.executor": "Run",
+    "Python.Encapsulamento com propriedades.executor": "Run",
+    "Python.Herança múltipla.executor": "Run",
+    "Python.Herança.executor": "Run",
+    "Python.Jogo da Velha  v1.0.executor": "Run",
+    "Python.Jogo da Velha v1.5.executor": "Run",
+    "Python.Jogo da Velha v2.0.executor": "Run",
+    "Python.Jogo da Velha v2.5.executor": "Run",
+    "Python.Poo e herança.executor": "Run",
+    "Python.Poo.executor": "Run",
+    "Python.Rascunho de jogo da velha.executor": "Run",
+    "Python.Teste def.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex083.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
+    "Python.ex087.executor": "Run",
+    "Python.ex088.executor": "Run",
+    "Python.ex089.executor": "Run",
+    "Python.ex090.executor": "Run",
+    "Python.ex091.executor": "Run",
+    "Python.ex092.executor": "Run",
+    "Python.ex093.executor": "Run",
+    "Python.ex094.executor": "Run",
+    "Python.ex095.executor": "Run",
+    "Python.ex096.executor": "Run",
+    "Python.ex097.executor": "Run",
+    "Python.ex098.executor": "Run",
+    "Python.ex099.executor": "Run",
+    "Python.ex100.executor": "Run",
+    "Python.ex101.executor": "Run",
+    "Python.ex102.executor": "Run",
+    "Python.ex103.executor": "Run",
+    "Python.ex104.executor": "Run",
+    "Python.ex105.executor": "Run",
+    "Python.ex106 (1).executor": "Run",
+    "Python.ex106.executor": "Run",
+    "Python.ex107.executor": "Run",
+    "Python.ex108.executor": "Run",
+    "Python.ex109.executor": "Run",
+    "Python.ex110 (1).executor": "Run",
+    "Python.ex110 (2).executor": "Run",
+    "Python.ex110.executor": "Run",
+    "Python.ex112.executor": "Run",
+    "Python.ex113.executor": "Run",
+    "Python.ex114.executor": "Run",
+    "Python.ex115 (1).executor": "Run",
+    "Python.ex115a.executor": "Run",
+    "Python.ex115b.executor": "Run",
+    "Python.ex115c.executor": "Run",
+    "Python.ex116.executor": "Run",
+    "Python.janela.executor": "Run",
+    "Python.naruto 2.executor": "Run",
+    "Python.naruto.executor": "Run",
+    "Python.naruto3.executor": "Run",
+    "Python.objetos dentro de objetos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/guisi/PyCharmMiscProject/Comandos_Python/Mundo Python 3/Exercícios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\Exercícios" />
@@ -189,51 +194,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex009">
-    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex002.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex003.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex012">
     <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -300,13 +261,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex012.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex012" />
+        <item itemvalue="Python.ex011" />
         <item itemvalue="Python.ex009" />
         <item itemvalue="Python.ex008" />
         <item itemvalue="Python.ex004" />
-        <item itemvalue="Python.ex003" />
-        <item itemvalue="Python.ex002" />
       </list>
     </recent_temporary>
   </component>
