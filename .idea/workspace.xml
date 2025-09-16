@@ -221,7 +221,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.validador_de_CPF">
+  <component name="RunManager" selected="Python.contador de vogais">
     <configuration name="Calculando_a_gorjeta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -245,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contador de vogais" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,12 +254,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Contador de palavra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra\contador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/contador de vogais.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +277,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Contador de palavra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -339,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contador de vogais" />
         <item itemvalue="Python.validador_de_CPF" />
         <item itemvalue="Python.Calculando_a_gorjeta" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.contador de palavra (1)" />
-        <item itemvalue="Python.contador de palavra" />
       </list>
     </recent_temporary>
   </component>
