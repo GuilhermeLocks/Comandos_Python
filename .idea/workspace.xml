@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Soma de numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Contador de palavra/contador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Contador de palavra/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Soma de numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Soma de numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex020.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +75,8 @@
     "Python.Rascunho de jogo da velha.executor": "Run",
     "Python.Soma de numeros.executor": "Run",
     "Python.Teste def.executor": "Run",
+    "Python.contador de palavra (1).executor": "Run",
+    "Python.contador de palavra.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -186,6 +191,7 @@
     "Python.ex115c.executor": "Run",
     "Python.ex116.executor": "Run",
     "Python.janela.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.naruto 2.executor": "Run",
     "Python.naruto.executor": "Run",
     "Python.naruto3.executor": "Run",
@@ -210,14 +216,14 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra" />
+      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Poo\Copilot\Exercícios" />
+      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura" />
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3" />
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
-      <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex108_moeda" />
-      <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex109_moeda" />
-      <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Soma de numeros">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Numero-Secreto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -255,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Soma de numeros.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Soma de numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex039" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,12 +279,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Contador de palavra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex039.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra\contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex040.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra\contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,12 +325,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Contador de palavra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios/ex041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Contador de palavra/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.contador de palavra (1)" />
+        <item itemvalue="Python.contador de palavra" />
         <item itemvalue="Python.Soma de numeros" />
         <item itemvalue="Python.Numero-Secreto" />
-        <item itemvalue="Python.ex041" />
-        <item itemvalue="Python.ex040" />
-        <item itemvalue="Python.ex039" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +370,9 @@
       <workItem from="1750112493057" duration="1644000" />
       <workItem from="1757340187312" duration="1221000" />
       <workItem from="1757674332763" duration="1827000" />
-      <workItem from="1757888129303" duration="959000" />
+      <workItem from="1757888129303" duration="1946000" />
+      <workItem from="1758022816080" duration="3417000" />
+      <workItem from="1758043496571" duration="713000" />
     </task>
     <servers />
   </component>
@@ -373,7 +381,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ex021_py$Soma_de_numeros.coverage" NAME="Soma de numeros Coverage Results" MODIFIED="1757888456034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Numero_Secreto.coverage" NAME="Numero-Secreto Coverage Results" MODIFIED="1757674772970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$main.coverage" NAME="main Coverage Results" MODIFIED="1758044352778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
+    <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115__1_.coverage" NAME="ex115 (1) Coverage Results" MODIFIED="1750114065498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
   </component>
