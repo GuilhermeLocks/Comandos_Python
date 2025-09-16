@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Alura/Calculando_a_gorjeta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/validador_de_CPF.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +193,7 @@
     "Python.naruto.executor": "Run",
     "Python.naruto3.executor": "Run",
     "Python.objetos dentro de objetos.executor": "Run",
+    "Python.validador_de_CPF.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -220,7 +221,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Calculando_a_gorjeta">
+  <component name="RunManager" selected="Python.validador_de_CPF">
     <configuration name="Calculando_a_gorjeta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -236,29 +237,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Calculando_a_gorjeta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Soma de numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Soma de numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,13 +314,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="validador_de_CPF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/validador_de_CPF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.validador_de_CPF" />
         <item itemvalue="Python.Calculando_a_gorjeta" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.contador de palavra (1)" />
         <item itemvalue="Python.contador de palavra" />
-        <item itemvalue="Python.Soma de numeros" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +370,7 @@
       <workItem from="1757674332763" duration="1827000" />
       <workItem from="1757888129303" duration="1946000" />
       <workItem from="1758022816080" duration="3417000" />
-      <workItem from="1758043496571" duration="1216000" />
+      <workItem from="1758043496571" duration="1910000" />
     </task>
     <servers />
   </component>
@@ -381,7 +382,8 @@
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Numero_Secreto.coverage" NAME="Numero-Secreto Coverage Results" MODIFIED="1757674772970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$main.coverage" NAME="main Coverage Results" MODIFIED="1758044618322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
-    <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044706554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044885369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$validador_de_CPF.coverage" NAME="validador_de_CPF Coverage Results" MODIFIED="1758045385071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115__1_.coverage" NAME="ex115 (1) Coverage Results" MODIFIED="1750114065498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
