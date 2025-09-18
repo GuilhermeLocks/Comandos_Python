@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Alura/Gerador de senha segura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Pedra, papel e tesoura.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
     "Python.Jogo da Velha v2.0.executor": "Run",
     "Python.Jogo da Velha v2.5.executor": "Run",
     "Python.Numero-Secreto.executor": "Run",
+    "Python.Pedra, papel e tesoura.executor": "Run",
     "Python.Poo e herança.executor": "Run",
     "Python.Poo.executor": "Run",
     "Python.Rascunho de jogo da velha.executor": "Run",
@@ -223,30 +224,7 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Gerador de senha segura">
-    <configuration name="Calculando_a_gorjeta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Calculando_a_gorjeta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Pedra, papel e tesoura">
     <configuration name="Gerador de senha segura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -285,6 +263,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Identificando palavras mais longas em um texto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pedra, papel e tesoura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Pedra, papel e tesoura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pedra, papel e tesoura" />
         <item itemvalue="Python.Gerador de senha segura" />
         <item itemvalue="Python.Identificando palavras mais longas em um texto" />
         <item itemvalue="Python.contador de vogais" />
         <item itemvalue="Python.validador_de_CPF" />
-        <item itemvalue="Python.Calculando_a_gorjeta" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +374,7 @@
       <workItem from="1757888129303" duration="1946000" />
       <workItem from="1758022816080" duration="3417000" />
       <workItem from="1758043496571" duration="1910000" />
-      <workItem from="1758197377399" duration="1274000" />
+      <workItem from="1758197377399" duration="2269000" />
     </task>
     <servers />
   </component>
@@ -383,14 +384,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ex021_py$Soma_de_numeros.coverage" NAME="Soma de numeros Coverage Results" MODIFIED="1757888456034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/ex021_py$Gerador_de_senha_segura.coverage" NAME="Gerador de senha segura Coverage Results" MODIFIED="1758198648400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$Pedra__papel_e_tesoura.coverage" NAME="Pedra, papel e tesoura Coverage Results" MODIFIED="1758199614802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
+    <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+    <SUITE FILE_PATH="coverage/ex021_py$Gerador_de_senha_segura.coverage" NAME="Gerador de senha segura Coverage Results" MODIFIED="1758198681070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Numero_Secreto.coverage" NAME="Numero-Secreto Coverage Results" MODIFIED="1757674772970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$main.coverage" NAME="main Coverage Results" MODIFIED="1758044618322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
     <SUITE FILE_PATH="coverage/ex021_py$Identificando_palavras_mais_longas_em_um_texto.coverage" NAME="Identificando palavras mais longas em um texto Coverage Results" MODIFIED="1758198198029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044885369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$validador_de_CPF.coverage" NAME="validador_de_CPF Coverage Results" MODIFIED="1758045385071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
-    <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115__1_.coverage" NAME="ex115 (1) Coverage Results" MODIFIED="1750114065498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
   </component>
 </project>
