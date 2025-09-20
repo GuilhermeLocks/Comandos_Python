@@ -9,9 +9,24 @@ Escolha:''')
         print('Escolha invalida tente novamente.')
 
 jogadas = ['pedra', 'papel', 'tesoura']
-print(f'Computador escolheu: {jogadas[randint(0, len(jogadas)-1)]}')
+jogada_computador = jogadas[randint(0, len(jogadas)-1)]
+print(f'Computador escolheu: {jogada_computador}')
 print(f'Jogador escolheu: {jogadas[int(jogada_jogador)]}')
 
-if jogadas[int(jogada_jogador)] == jogadas[randint(0, len(jogadas)-1)]:
+if jogadas[int(jogada_jogador)] == jogada_computador:
     print('Empate!')
+
+elif jogadas[int(jogada_jogador)] == 'papel' and jogada_computador == 'tesoura':
+    print('Computador ganhou!')
+elif jogadas[int(jogada_jogador)] == 'pedra' and jogada_computador == 'papel':
+    print('Computador ganhou!')
+elif jogadas[int(jogada_jogador)] == 'tesoura' and jogada_computador == 'pedra':
+    print('Computador ganhou!')
+
+elif jogadas[int(jogada_jogador)] == 'papel' and jogada_computador == 'pedra':
+    print('Jogador ganhou!')
+elif jogadas[int(jogada_jogador)] == 'pedra' and jogada_computador == 'tesoura':
+    print('Jogador ganhou!')
+elif jogadas[int(jogada_jogador)] == 'tesoura' and jogada_computador == 'papel':
+    print('Jogador ganhou!')
 
