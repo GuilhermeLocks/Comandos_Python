@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Alura/Contador de cédulas únicas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Contador de cédulas únicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Contador de cédulas únicas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,7 +382,7 @@
       <workItem from="1758197377399" duration="5346000" />
       <workItem from="1758396026115" duration="1899000" />
       <workItem from="1758743233485" duration="5900000" />
-      <workItem from="1758755815770" duration="350000" />
+      <workItem from="1758755815770" duration="1380000" />
     </task>
     <servers />
   </component>
@@ -394,7 +394,7 @@
     <SUITE FILE_PATH="coverage/ex021_py$Gerenciador_de_tarefas.coverage" NAME="Gerenciador de tarefas Coverage Results" MODIFIED="1758750019967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Pedra__papel_e_tesoura.coverage" NAME="Pedra, papel e tesoura Coverage Results" MODIFIED="1758396387380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/ex021_py$Contador_de_cédulas_únicas.coverage" NAME="Contador de cédulas únicas Coverage Results" MODIFIED="1758756126562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$Contador_de_cédulas_únicas.coverage" NAME="Contador de cédulas únicas Coverage Results" MODIFIED="1758757190219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
     <SUITE FILE_PATH="coverage/ex021_py$Gerador_de_senha_segura.coverage" NAME="Gerador de senha segura Coverage Results" MODIFIED="1758198681070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
