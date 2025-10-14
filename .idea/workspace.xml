@@ -349,9 +349,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.restaurante" />
-        <item itemvalue="Python.Contador de cédulas únicas" />
-        <item itemvalue="Python.Gerenciador de tarefas" />
         <item itemvalue="Python.comandos" />
+        <item itemvalue="Python.Gerenciador de tarefas" />
+        <item itemvalue="Python.Contador de cédulas únicas" />
         <item itemvalue="Python.Calculadora com tratamento de erros" />
       </list>
     </recent_temporary>
@@ -359,7 +359,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
         <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
@@ -387,7 +386,8 @@
       <workItem from="1758907809150" duration="4494000" />
       <workItem from="1759098485133" duration="1656000" />
       <workItem from="1759410232198" duration="981000" />
-      <workItem from="1759776392927" duration="1726000" />
+      <workItem from="1759776392927" duration="2770000" />
+      <workItem from="1759953230174" duration="16000" />
     </task>
     <servers />
   </component>
