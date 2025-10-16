@@ -12,9 +12,9 @@ class Restaurante:
 
     @classmethod
     def listar_restauramtes(cls):
-        print(f'{'nome '.ljust(10)}{'/categoria '.ljust(15)}{'/status'.ljust(20)}')
+        print(f'{'nome '.ljust(20)}{'/categoria '.ljust(20)}{'/status'.ljust(20)}')
         for restaurante in cls.restarantes:
-            print(f'{restaurante.nome.ljust(10)}/{restaurante.categoria.ljust(15)}/{restaurante.ativo.ljust(20)}')
+            print(f'{restaurante.nome.ljust(20)}/{restaurante.categoria.ljust(20)}/{restaurante.ativo.ljust(20)}')
 
     @property
     def ativo(self):
@@ -43,4 +43,3 @@ Restaurante.listar_restauramtes()
 restaurante_pizza.alternar_estado()
 
 print()
-Restaurante.listar_restauramtes()
