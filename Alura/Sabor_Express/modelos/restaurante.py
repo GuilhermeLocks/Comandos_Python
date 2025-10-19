@@ -1,3 +1,5 @@
+from Alura.Sabor_Express.modelos.avaliacao import Avaliacao
+
 class Restaurante:
     restarantes = []
 
@@ -5,6 +7,7 @@ class Restaurante:
         self.nome = nome.title()
         self.categoria = categoria.upper()
         self._ativo = False
+        self._avaliacao = []
         Restaurante.restarantes.append(self)
 
     def __str__(self):
@@ -22,6 +25,13 @@ class Restaurante:
 
     def alternar_estado(self):
         self._ativo = not self._ativo
+
+    def receber_avaliacao(self, cliente, nota):
+        avaliacao = Avaliacao(cliente, nota)
+        self._avaliacao.append(avaliacao)
+        print(self._avaliacao)
+
+
 
 restaurante_placa = Restaurante('praça', 'Gourmet')
 restaurante_pizza = Restaurante('pizza', 'Italiana')
@@ -43,3 +53,4 @@ Restaurante.listar_restauramtes()
 restaurante_pizza.alternar_estado()
 
 print()
+restaurante_placa.receber_avaliacao('Gui', 10)
