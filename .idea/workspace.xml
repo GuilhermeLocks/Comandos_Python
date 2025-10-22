@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/avaliacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/Contador de numeros aleatorio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/OO-Sabor-Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/OO-Sabor-Express/modelos/avaliacao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/OO-Sabor-Express/modelos/restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     "Python.Classe Base Pessoa.executor": "Run",
     "Python.Classes abstratas e interfaces.executor": "Run",
     "Python.Contador de cédulas únicas.executor": "Run",
+    "Python.Contador de numeros aleatorio.executor": "Run",
     "Python.Encapsulamento com propriedades.executor": "Run",
     "Python.Gerador de senha segura.executor": "Run",
     "Python.Gerenciador de tarefas.executor": "Run",
@@ -83,6 +83,7 @@
     "Python.Rascunho de jogo da velha.executor": "Run",
     "Python.Soma de numeros.executor": "Run",
     "Python.Teste def.executor": "Run",
+    "Python.app (1).executor": "Run",
     "Python.app.executor": "Run",
     "Python.contador de palavra (1).executor": "Run",
     "Python.contador de palavra.executor": "Run",
@@ -236,8 +237,8 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.restaurante (2)">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Contador de numeros aleatorio">
+    <configuration name="Contador de numeros aleatorio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/OO-Sabor-Express" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/OO-Sabor-Express/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/Contador de numeros aleatorio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comandos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,12 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Sabor_Express" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/comandos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Sabor_Express/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Contador de numeros aleatorio" />
         <item itemvalue="Python.restaurante (2)" />
+        <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.restaurante (1)" />
         <item itemvalue="Python.restaurante" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.comandos" />
       </list>
     </recent_temporary>
   </component>
