@@ -15,9 +15,9 @@ class Restaurante:
 
     @classmethod
     def listar_restauramtes(cls):
-        print(f'{'nome '.ljust(20)}{'/categoria '.ljust(20)}{'/status'.ljust(20)}')
+        print(f'{'nome ':<20}{'/categoria ':<20}{'/status':<20}{'/Media':<20}')
         for restaurante in cls.restarantes:
-            print(f'{restaurante.nome.ljust(20)}/{restaurante.categoria.ljust(20)}/{restaurante.ativo.ljust(20)}')
+            print(f'{restaurante.nome:<20}/{restaurante.categoria:<19}/{restaurante.ativo:<19}/{str(restaurante.media_avaliacoes):<20}')
 
     @property
     def ativo(self):
@@ -29,7 +29,15 @@ class Restaurante:
     def receber_avaliacao(self, cliente, nota):
         avaliacao = Avaliacao(cliente, nota)
         self._avaliacao.append(avaliacao)
-        print(self._avaliacao)
+
+    @property
+    def media_avaliacoes(self):
+        if not self._avaliacao:
+            return 0
+        soma_das_notas = sum(avaliacao._nota for avaliacao in self._avaliacao)
+        quantidade_de_notas = len(self._avaliacao)
+        media = round(soma_das_notas / quantidade_de_notas, 1)
+        return media
 
 
 
@@ -48,9 +56,15 @@ print()
 for c in restaurantes:
     print(c)
 print()
-Restaurante.listar_restauramtes()
+
 
 restaurante_pizza.alternar_estado()
 
-print()
+restaurante_placa.receber_avaliacao('Gui', 15)
 restaurante_placa.receber_avaliacao('Gui', 10)
+restaurante_pizza.receber_avaliacao('Gui', 5)
+restaurante_pizza.receber_avaliacao('Gui', 4)
+print()
+print(restaurante_placa.media_avaliacoes)
+print()
+Restaurante.listar_restauramtes()
