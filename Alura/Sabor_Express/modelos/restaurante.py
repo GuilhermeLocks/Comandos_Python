@@ -27,13 +27,14 @@ class Restaurante:
         self._ativo = not self._ativo
 
     def receber_avaliacao(self, cliente, nota):
-        avaliacao = Avaliacao(cliente, nota)
-        self._avaliacao.append(avaliacao)
+        if 0 <= nota <= 5:
+            avaliacao = Avaliacao(cliente, nota)
+            self._avaliacao.append(avaliacao)
 
     @property
     def media_avaliacoes(self):
         if not self._avaliacao:
-            return 0
+            return '-'
         soma_das_notas = sum(avaliacao._nota for avaliacao in self._avaliacao)
         quantidade_de_notas = len(self._avaliacao)
         media = round(soma_das_notas / quantidade_de_notas, 1)
@@ -60,10 +61,10 @@ print()
 
 restaurante_pizza.alternar_estado()
 
-restaurante_placa.receber_avaliacao('Gui', 15)
-restaurante_placa.receber_avaliacao('Gui', 10)
-restaurante_pizza.receber_avaliacao('Gui', 5)
-restaurante_pizza.receber_avaliacao('Gui', 4)
+restaurante_placa.receber_avaliacao('Gui', 5)
+restaurante_placa.receber_avaliacao('Gui', 2)
+#restaurante_pizza.receber_avaliacao('Gui', 5)
+#restaurante_pizza.receber_avaliacao('Gui', 4)
 print()
 print(restaurante_placa.media_avaliacoes)
 print()
