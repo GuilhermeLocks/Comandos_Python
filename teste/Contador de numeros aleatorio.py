@@ -9,9 +9,9 @@ sete = 0
 oito = 0
 nove = 0
 dez = 0
-for c in range(1, 1000000):
+for c in range(1, 1020000):
     valor = random.randint(1, 10)
-    print(c, valor)
+    #print(c, valor)
     if valor == 1:
         um +=1
     if valor == 2:
@@ -43,3 +43,15 @@ print(f'7  = {sete}')
 print(f'8  = {oito}')
 print(f'9  = {nove}')
 print(f'10 = {dez}')
+
+lista = [um, dois, tres, quatro, cinco, seis, sete, oito, nove, dez]
+maior = 0
+menor = 1020000
+
+for c in lista:
+    if c > maior:
+        maior = c
+    if c < menor:
+        menor = c
+
+print(f'Maior = {maior}, Menor = {menor}, diferença = {maior - menor}')
