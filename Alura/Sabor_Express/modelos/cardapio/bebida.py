@@ -1,3 +1,6 @@
-class Bebida:
+from Alura.Sabor_Express.modelos.cardapio.item_carpadio import ItemCardapio
+
+class Bebida(ItemCardapio):
     def __init__(self, nome, preco,tamanho):
-        pass
+        super().__init__(nome, preco)
+        self.tamanho = tamanho
