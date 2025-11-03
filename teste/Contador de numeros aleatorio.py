@@ -54,4 +54,6 @@ for c in lista:
     if c < menor:
         menor = c
 
-print(f'Maior = {maior}, Menor = {menor}, diferença = {maior - menor}')
+print(f'''Maior = {maior} 
+Menor = {menor} 
+Diferença = {maior - menor}''')
