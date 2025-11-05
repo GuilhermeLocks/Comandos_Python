@@ -2,6 +2,10 @@ import mysql.connector
 
 con = mysql.connector.connect(host="localhost", user="root", password="")
 cursor = con.cursor()
-cursor.execute("CREATE DATABASE empresa")
+cursor.execute('use empresa')
 
-print("Banco de dados criado com sucesso!")
+cursor.execute("SELECT * FROM funcionarios")
+
+for f in cursor.fetchall():
+    print(f)
+

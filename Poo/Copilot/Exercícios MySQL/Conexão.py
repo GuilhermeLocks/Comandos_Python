@@ -8,10 +8,12 @@ conexao = mysql.connector.connect(
 
 cursor = conexao.cursor()
 cursor.execute("SHOW DATABASES")
-
+cursor.execute("select * from pessoas")
 for db in cursor:
     print(db)
 
 cursor.close()
 conexao.close()
+
+
 
