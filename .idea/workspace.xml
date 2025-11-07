@@ -5,10 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/bebida.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/bebida.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/prato.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/prato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Básico de POO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Básico de POO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Calculo de Bônus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Calculo de Bônus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Classe Base Pessoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Classe Base Pessoa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Classes abstratas e interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Classes abstratas e interfaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Encapsulamento com propriedades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Encapsulamento com propriedades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Conexão.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Conexão.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Exercícios POO/Ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Herança múltipla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Herança múltipla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/Herança.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/Herança.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/Copilot/objetos dentro de objetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/ChatGPT/objetos dentro de objetos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,8 +300,8 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
-    <configuration name="Ex004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex013">
+    <configuration name="Ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,11 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,11 +332,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex008.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +345,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,11 +354,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +367,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/Copilot/Exercícios MySQL/Ex010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios MySQL/Ex013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,11 +413,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex013" />
+        <item itemvalue="Python.Ex012" />
+        <item itemvalue="Python.Ex011" />
+        <item itemvalue="Python.Ex001" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.Ex010" />
-        <item itemvalue="Python.Ex009" />
-        <item itemvalue="Python.Ex008" />
-        <item itemvalue="Python.Ex004" />
       </list>
     </recent_temporary>
   </component>
