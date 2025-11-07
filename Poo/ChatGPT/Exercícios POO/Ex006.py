@@ -1,6 +1,15 @@
-class Matematica:
-    @staticmethod
-    def somar(a, b):
-        return a + b
+class Mamifero:
+    def amamentar(self):
+        print('Amamentar')
 
-print(Matematica.somar(4, 6))
+
+class Aquatico:
+    def nadar(self):
+        print('Nadar')
+
+class Baleia(Mamifero, Aquatico):
+    pass
+
+b = Baleia()
+b.nadar()
+b.amamentar()

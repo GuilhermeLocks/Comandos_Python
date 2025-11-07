@@ -1,10 +1,11 @@
-class Pessoa:
-    def __init__(self, nome, idade):
-        self.nome = nome
-        self.idade = idade
+class Carro:
+    def __init__(self, marca, modelo, ano):
+        self.marca = marca
+        self.modelo = modelo
+        self.ano = ano
 
-    def apresentar(self):
-        print(f'Olá! Meu nome é {self.nome} e tenho {self.idade} anos.')
+    def meu_carro(self):
+        return self.marca, self.modelo, self.ano
 
-p = Pessoa('Ana', 25)
-p.apresentar()
+c=Carro('marca', 'modelo', 'ano')
+print(c.meu_carro())

@@ -1,12 +1,11 @@
-class Motor:
-    def __init__(self, potencia):
-        self.potencia = potencia
+class Produto:
+    def __init__(self, nome, preco):
+        self.nome = nome
+        self.preco = preco
 
-class Carro:
-    def __init__(self, modelo, motor):
-        self.modelo = modelo
-        self.motor = motor
+    @property
+    def desconto(self):
+        return f'O produto {self.nome} que custava R${int(self.preco):.2f} com 10% de desconto ficará R${int(self.preco)*0.9:.2f}.'
 
-motor = Motor(160)
-carro = Carro('Sedan', motor)
-print(carro.modelo, carro.motor.potencia)
+p = Produto('Notebook', '3000')
+print(p.desconto)

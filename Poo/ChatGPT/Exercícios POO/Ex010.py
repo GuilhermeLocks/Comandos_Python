@@ -1,11 +1,19 @@
-class Numero:
-    def __init__(self, valor):
-        self.valor = valor
+from abc import ABC, abstractmethod
 
-    def __add__(self, outro):
-        return Numero(self.valor + outro.valor)
+class Funcionario(ABC):
 
-n1 = Numero(10)
-n2 = Numero(20)
-resultado = n1 + n2
-print(resultado.valor)
+    @abstractmethod
+    def calcular_salario(self):
+        pass
+
+class Vendedor(Funcionario):
+
+    def __init__(self, vendas, comissao):
+        self.vendas = vendas
+        self.comissao = comissao
+
+    def calcular_salario(self):
+        return self.vendas * self.comissao
+
+v = Vendedor(10000, 0.05)
+print(v.calcular_salario())

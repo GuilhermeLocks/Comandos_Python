@@ -1,18 +1,14 @@
-class Produto:
-    def __init__(self, preco):
-        self._preco = preco
+class Animal:
+    def falar(self):
+        return 'Som de animal'
 
-    @property
-    def preco(self):
-        return self._preco
+class Cachorro(Animal):
+    def falar(self):
+        return 'AU AU!!'
 
-    @preco.setter
-    def preco(self, valor):
-        if valor >= 0:
-            self._preco = valor
-        else:
-            print('Preço inválido')
+dog = Cachorro()
+print(dog.falar())
 
-p = Produto(50)
-p.preco = -10
-print(p.preco)
+a = Animal()
+print(a.falar())
+

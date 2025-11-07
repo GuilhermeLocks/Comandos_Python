@@ -1,10 +1,10 @@
-class Animal:
-    def falar(self):
-        print('Som genérico')
+class Pessoa:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
 
-class Cachorro(Animal):
-    def falar(self):
-        print('Au Au')
+    def exibir(self):
+        return f'nome: {self.nome}, idade: {self.idade}'
 
-dog = Cachorro()
-dog.falar()
+p = Pessoa('Jorge', '18')
+print(p.exibir())

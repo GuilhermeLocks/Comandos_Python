@@ -1,12 +1,15 @@
-class Gato:
-    def falar(self):
-        return 'Miau!'
+class ContaBancaria:
+    def __init__(self, saldo):
+        self._saldo = saldo
 
-class Vaca:
-    def falar(self):
-        return 'Muuu!'
+    def depositar(self, valor):
+        if valor > 0:
+            self._saldo += valor
+        print(f'Valor depositado: R${valor:.2f}')
 
-animais = [Gato(), Vaca()]
+    def ver_saldo(self):
+        return f'Saldo: R${self._saldo:.2f}'
 
-for animal in animais:
-    print(animal.falar())
+c = ContaBancaria(100)
+c.depositar(100)
+print(c.ver_saldo())

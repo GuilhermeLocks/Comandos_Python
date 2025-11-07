@@ -1,10 +1,22 @@
-class Carro:
-    def __init__(self, marca, ano):
-        self.marca = marca
-        self.ano = ano
+import math
 
-    def __str__(self):
-        return f'Marca: {self.marca}, ano: {self.ano}'
+class Forma:
+    def area(self):
+        pass
 
-c = Carro('Fiat', 2020)
-print(c)
+class Quadrado(Forma):
+    def __init__(self, lado):
+        self.lado = lado
+    def area(self):
+        return self.lado ** 2
+
+class Circulo(Forma):
+    def __init__(self, raio):
+        self.raio = raio
+    def area(self):
+        return math.pi * self.raio ** 2
+
+formas = [Quadrado(4), Circulo(3)]
+for f in formas:
+    print(f.area())
+
