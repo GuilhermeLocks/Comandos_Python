@@ -5,6 +5,8 @@ from Alura.Sabor_Express.modelos.cardapio.prato import Prato
 restaurante_mexicano = Restaurante('Mexican Food', 'Mexicana')
 bebido_suco = Bebida('Suco de melancia', 5.0, 'grande')
 prato_paozinho = Prato('Paozinho', 2.00, 'O melhor pão da cidade')
+restaurante_mexicano.adicionar_bebida_no_cardapio(bebido_suco)
+restaurante_mexicano.adicionar_prato_no_cardapio(prato_paozinho)
 
 def main():
     print(bebido_suco)
