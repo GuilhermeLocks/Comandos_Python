@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +93,11 @@
     "Python.Ex021.executor": "Run",
     "Python.Ex022.executor": "Run",
     "Python.Ex024.executor": "Run",
+    "Python.Ex031.executor": "Run",
+    "Python.Ex032.executor": "Run",
+    "Python.Ex033.executor": "Run",
+    "Python.Ex034.executor": "Run",
+    "Python.Ex035.executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.Gerador de senha segura.executor": "Run",
     "Python.Gerenciador de tarefas.executor": "Run",
@@ -273,8 +273,8 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\utilidades\ex107_moeda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex029">
-    <configuration name="Ex005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex035">
+    <configuration name="Ex031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex031.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,7 +331,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex033.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,7 +353,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex034.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,7 +362,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,7 +375,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex029.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex029" />
-        <item itemvalue="Python.Ex024" />
-        <item itemvalue="Python.Ex022" />
-        <item itemvalue="Python.Ex021" />
-        <item itemvalue="Python.Ex005" />
+        <item itemvalue="Python.Ex035" />
+        <item itemvalue="Python.Ex034" />
+        <item itemvalue="Python.Ex033" />
+        <item itemvalue="Python.Ex032" />
+        <item itemvalue="Python.Ex031" />
       </list>
     </recent_temporary>
   </component>
