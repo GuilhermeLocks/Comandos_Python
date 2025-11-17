@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/calculadora com lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/calculando a idade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/calculando o total de vendas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/contador de caracteres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/conversor de tipos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/filtrando números pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/gerador de funções personalizadas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/juntando listas de produtos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/saudação personalizada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Praticando Python funções/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Calculadora com tratamento de erros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Calculadora com tratamento de erros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Calculando_a_gorjeta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Calculando_a_gorjeta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Contador de cédulas únicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Contador de cédulas únicas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Contador de palavra/contador.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Contador de palavra/contador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Contador de palavra/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Contador de palavra/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Gerador de senha segura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Gerador de senha segura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Gerenciador de tarefas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Gerenciador de tarefas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Identificando palavras mais longas em um texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Identificando palavras mais longas em um texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Jogo de adivinhar o número.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Jogo de adivinhar o número.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Numero-Secreto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Numero-Secreto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Pedra, papel e tesoura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Pedra, papel e tesoura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/avaliacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/modelos/avaliacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/bebida.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/modelos/cardapio/bebida.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/item_carpadio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/modelos/cardapio/item_carpadio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/cardapio/prato.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/modelos/cardapio/prato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Sabor_Express/modelos/restaurante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Soma de numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/Soma de numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/comandos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/comandos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/contador de vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/contador de vogais.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/validador_de_CPF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Desenvolvimento Back-End Python/validador_de_CPF.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,8 +147,12 @@
     &quot;Python.Teste def.executor&quot;: &quot;Run&quot;,
     &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculando a idade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculando o total de vendas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador de caracteres.executor&quot;: &quot;Run&quot;,
     &quot;Python.contador de palavra (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.contador de palavra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversor de tipos.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
@@ -229,7 +266,9 @@
     &quot;Python.ex115b.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex115c.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex116.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filtrando números pares.executor&quot;: &quot;Run&quot;,
     &quot;Python.janela.executor&quot;: &quot;Run&quot;,
+    &quot;Python.juntando listas de produtos.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.naruto 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.naruto.executor&quot;: &quot;Run&quot;,
@@ -238,6 +277,8 @@
     &quot;Python.restaurante (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.restaurante (2).executor&quot;: &quot;Run&quot;,
     &quot;Python.restaurante.executor&quot;: &quot;Run&quot;,
+    &quot;Python.saudação personalizada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
     &quot;Python.validador_de_CPF.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -259,15 +300,15 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Poo\Copilot\Exercícios" />
-      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex035">
-    <configuration name="Ex031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.juntando listas de produtos">
+    <configuration name="calculando o total de vendas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,11 +317,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex031.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/calculando o total de vendas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="conversor de tipos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,11 +339,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex032.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/conversor de tipos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="filtrando números pares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,11 +361,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex033.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/filtrando números pares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="juntando listas de produtos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,11 +383,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex034.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/juntando listas de produtos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,7 +396,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,11 +405,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poo/ChatGPT/Exercícios POO/Ex035.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,11 +420,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex035" />
-        <item itemvalue="Python.Ex034" />
-        <item itemvalue="Python.Ex033" />
-        <item itemvalue="Python.Ex032" />
-        <item itemvalue="Python.Ex031" />
+        <item itemvalue="Python.juntando listas de produtos" />
+        <item itemvalue="Python.filtrando números pares" />
+        <item itemvalue="Python.calculando o total de vendas" />
+        <item itemvalue="Python.conversor de tipos" />
+        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
