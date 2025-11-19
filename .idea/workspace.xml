@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Testes/Tupla.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Testes/Tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Testes/Tupla.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +115,8 @@
     "Python.Rascunho de jogo da velha.executor": "Run",
     "Python.Soma de numeros.executor": "Run",
     "Python.Teste def.executor": "Run",
+    "Python.Tupla (1).executor": "Run",
+    "Python.Tupla.executor": "Run",
     "Python.app (1).executor": "Run",
     "Python.app.executor": "Run",
     "Python.calculando a idade.executor": "Run",
@@ -271,14 +273,36 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo\Testes" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo" />
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra" />
-      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Poo\Copilot\Exercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Tupla">
+  <component name="RunManager" selected="Python.Tupla (1)">
+    <configuration name="Tupla (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Testes/Tupla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -315,28 +339,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/calculando o total de vendas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="conversor de tipos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/conversor de tipos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tupla (1)" />
         <item itemvalue="Python.Tupla" />
         <item itemvalue="Python.juntando listas de produtos" />
         <item itemvalue="Python.filtrando números pares" />
         <item itemvalue="Python.calculando o total de vendas" />
-        <item itemvalue="Python.conversor de tipos" />
       </list>
     </recent_temporary>
   </component>
