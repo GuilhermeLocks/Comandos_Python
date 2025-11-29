@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste/Cabeçalho.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando bando de dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando tabela.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT/Exercícios MySQL/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT/Exercícios MySQL/Ex001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,8 @@
     "Python.Conexão.executor": "Run",
     "Python.Contador de cédulas únicas.executor": "Run",
     "Python.Contador de numeros aleatorio.executor": "Run",
+    "Python.Criando bando de dados.executor": "Run",
+    "Python.Criando tabela.executor": "Run",
     "Python.Encapsulamento com propriedades.executor": "Run",
     "Python.Ex001 (1).executor": "Run",
     "Python.Ex001.executor": "Run",
@@ -283,7 +286,7 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Contador de palavra" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Cabeçalho">
+  <component name="RunManager" selected="Python.Criando tabela">
     <configuration name="Cabeçalho" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -306,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tupla (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Criando bando de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Testes/Tupla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando bando de dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Criando tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,11 +340,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo\Testes\Tupla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando tabela.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="juntando listas de produtos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,11 +362,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Praticando Python funções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatGPT/Exercícios MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Praticando Python funções/juntando listas de produtos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatGPT/Exercícios MySQL/Ex001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Criando tabela" />
+        <item itemvalue="Python.Criando bando de dados" />
+        <item itemvalue="Python.Ex001" />
         <item itemvalue="Python.Cabeçalho" />
         <item itemvalue="Python.regex" />
-        <item itemvalue="Python.Tupla (1)" />
-        <item itemvalue="Python.Tupla" />
-        <item itemvalue="Python.juntando listas de produtos" />
       </list>
     </recent_temporary>
   </component>
