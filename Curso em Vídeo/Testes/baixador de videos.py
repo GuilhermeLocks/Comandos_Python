@@ -5,7 +5,7 @@ url = input('Digite a URL: ')
 ydl_opts = {
     'outtmpl': 'E:/%(title)s.%(ext)s',
     'format': 'bestvideo+bestaudio/best',
-    'merge_output_format': 'mp4',
+    'merge_output_format': 'mp3',
     'cookiesfrombrowser': ('firefox',),  # ← Firefox detectado automaticamente
 }
 
