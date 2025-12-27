@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste/piano.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Comandos_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Comandos_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste/partitura de piano.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste/partitura de piano.py" afterDir="false" />
-    </list>
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -482,6 +476,7 @@
       <workItem from="1766850342949" duration="1114000" />
       <workItem from="1766853269911" duration="20000" />
       <workItem from="1766864181513" duration="1000" />
+      <workItem from="1766864232156" duration="10000" />
     </task>
     <servers />
   </component>
