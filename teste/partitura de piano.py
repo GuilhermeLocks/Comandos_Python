@@ -1,12 +1,9 @@
 import random
 partitura = ['si', 'do', 're', 'mi', 'fá', 'sol', 'lá', 'si', 'do']
 
-for c in range(1, 8):
-    print(partitura[c] , c)
-
 while True:
-    aleatoria_antes_depois = random.randint(0, 1)
 
+    aleatoria_antes_depois = random.randint(0, 1)
     aleatoria_valor = random.randint(1, 7)
     aleatoria_nota = partitura[aleatoria_valor]
 
