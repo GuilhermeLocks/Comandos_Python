@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -464,6 +462,7 @@
       <workItem from="1765467454157" duration="684000" />
       <workItem from="1765479924476" duration="667000" />
       <workItem from="1765647394265" duration="43000" />
+      <workItem from="1766536541311" duration="77000" />
     </task>
     <servers />
   </component>
@@ -478,7 +477,7 @@
     <SUITE FILE_PATH="coverage/ex021_py$Calculadora_com_tratamento_de_erros.coverage" NAME="Calculadora com tratamento de erros Coverage Results" MODIFIED="1758397845961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/Ex010_py$excluindo_tebela.coverage" NAME="excluindo tebela Coverage Results" MODIFIED="1764770092226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/Ex010_py$Criando_tabela.coverage" NAME="Criando tabela Coverage Results" MODIFIED="1764769875851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/Ex010_py$baixador_de_videos.coverage" NAME="baixador de videos Coverage Results" MODIFIED="1765467467283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+    <SUITE FILE_PATH="coverage/Ex010_py$baixador_de_videos.coverage" NAME="baixador de videos Coverage Results" MODIFIED="1766536608360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
     <SUITE FILE_PATH="coverage/ex021_py$Contador_de_cédulas_únicas.coverage" NAME="Contador de cédulas únicas Coverage Results" MODIFIED="1758908180929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044885369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$validador_de_CPF.coverage" NAME="validador_de_CPF Coverage Results" MODIFIED="1758045385071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
