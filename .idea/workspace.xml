@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste/float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Testes/texte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/def contador.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 3/Exercícios/ex116.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +136,9 @@
     "Python.contador de palavra.executor": "Run",
     "Python.conversor de tipos.executor": "Run",
     "Python.criptar palabra.executor": "Run",
+    "Python.def contador (1).executor": "Run",
+    "Python.def contador.executor": "Run",
+    "Python.def.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -246,6 +252,7 @@
     "Python.ex115b.executor": "Run",
     "Python.ex115c.executor": "Run",
     "Python.ex116.executor": "Run",
+    "Python.ex117.executor": "Run",
     "Python.excluindo tebela.executor": "Run",
     "Python.filtrando números pares.executor": "Run",
     "Python.float.executor": "Run",
@@ -257,6 +264,7 @@
     "Python.naruto.executor": "Run",
     "Python.naruto3.executor": "Run",
     "Python.objetos dentro de objetos.executor": "Run",
+    "Python.par ou ímpar.executor": "Run",
     "Python.partitura de piano.executor": "Run",
     "Python.piano (1).executor": "Run",
     "Python.piano (2).executor": "Run",
@@ -268,6 +276,7 @@
     "Python.saudação personalizada.executor": "Run",
     "Python.teste (1).executor": "Run",
     "Python.teste.executor": "Run",
+    "Python.texte.executor": "Run",
     "Python.triangulo retangulo.executor": "Run",
     "Python.validador_de_CPF.executor": "Run",
     "Python.variavel local e global.executor": "Run",
@@ -298,8 +307,8 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.par ou ímpar">
-    <configuration name="Cabeçalho" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.texte">
+    <configuration name="def contador (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,8 +321,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/Cabeçalho.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/def contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="def contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,7 +343,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/float.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\teste\def contador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex116" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Curso em Vídeo\Mundo Python 4\ex116.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex116" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 3/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 3/Exercícios/ex116.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="partitura de piano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="texte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,35 +427,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Testes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/partitura de piano.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="piano (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/piano.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Testes/texte.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,11 +442,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.par ou ímpar" />
-        <item itemvalue="Python.float" />
-        <item itemvalue="Python.piano (2)" />
-        <item itemvalue="Python.partitura de piano" />
-        <item itemvalue="Python.Cabeçalho" />
+        <item itemvalue="Python.texte" />
+        <item itemvalue="Python.ex116" />
+        <item itemvalue="Python.ex116" />
+        <item itemvalue="Python.def contador (1)" />
+        <item itemvalue="Python.def contador" />
       </list>
     </recent_temporary>
   </component>
