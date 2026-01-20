@@ -32,15 +32,18 @@ def exibir_nome_do_programa():
 
 def cadastrar_novo_restaurante():
     print('Cadastrado de novos restaurantes!')
-    nome_restaurante = input('Nome do restaurante: ')
-    restaurantes.append(nome_restaurante)
-    print(f'O restaurante {nome_restaurante} foi cadastrado.')
+    nome_do_restaurante = input('Nome do restaurante: ')
+    categoria = input(f'Digite o noma de categoria do restaurante {nome_do_restaurante}: ')
+    dados_do_restaurante = {'nome':nome_do_restaurante, 'categoria':categoria, 'ativo':False}
+    restaurantes.append(dados_do_restaurante)
+    print(f'O restaurante {nome_do_restaurante} foi cadastrado.')
 
 def listar_restaurantes():
-    print('Listando os restaurantes')
+    print('Listando os restaurantes:')
+    print()
     for restaurante in restaurantes:
         for c in restaurante:
-            print(f'{restaurante[c]},', end=' ')
+            print(f'{restaurante[c]} |', end=' ')
         print()
     print()
 
