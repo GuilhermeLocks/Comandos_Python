@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/describe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando bando de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando bando de dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Criando tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/excluindo tebela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/excluindo banco de dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,6 +254,8 @@
     "Python.ex117.executor": "Run",
     "Python.ex118.executor": "Run",
     "Python.excluindo banco de dados (1).executor": "Run",
+    "Python.excluindo banco de dados.executor": "Run",
+    "Python.excluindo tabela.executor": "Run",
     "Python.excluindo tebela.executor": "Run",
     "Python.filtrando números pares.executor": "Run",
     "Python.float.executor": "Run",
@@ -310,7 +310,7 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.describe">
+  <component name="RunManager" selected="Python.Criando tabela">
     <configuration name="Criando bando de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -377,7 +377,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excluindo banco de dados (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="excluindo banco de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -399,7 +399,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="excluindo tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -412,7 +412,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/excluindo tabela.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,11 +423,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.describe" />
-        <item itemvalue="Python.teste" />
         <item itemvalue="Python.Criando tabela" />
         <item itemvalue="Python.Criando bando de dados" />
-        <item itemvalue="Python.excluindo banco de dados (1)" />
+        <item itemvalue="Python.excluindo banco de dados" />
+        <item itemvalue="Python.excluindo tabela" />
+        <item itemvalue="Python.describe" />
       </list>
     </recent_temporary>
   </component>

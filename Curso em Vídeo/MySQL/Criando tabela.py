@@ -6,15 +6,16 @@ try:
     cursor.execute('use naruto')
     cursor.execute("""
     CREATE TABLE ninjas (
-        id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-        nome VARCHAR(30),
+        id INT NOT NULL AUTO_INCREMENT,
+        nome VARCHAR(30) not null,
         nascimento date,
         sexo enum ('M', 'F'),
         altura decimal (3,2),
-        nacionalidade varchar (30) default 'Konaha'
-    )
+        nacionalidade varchar (20) default 'Konaha',
+        PRIMARY KEY(id)
+    ) default charset = utf8
     """)
 except:
-    print('erro')
+    print('Erro ao criar tabela.')
 else:
     print("Tabela criada com sucesso!")
