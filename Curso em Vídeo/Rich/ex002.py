@@ -6,7 +6,8 @@ from time import sleep
 caixa = Panel('Esse aqui é um painel de exemplo', title=' mensage', style='red')
 caixa_2 = Panel('Esse aqui é um segundo painel de exemplo', title=' mensage', style='red')
 
-print('caixa')
-sleep(2)
-os.system('cls')
-print('caixa_2')
+print(caixa)
+# sleep(2)
+# os.system('cls')
+# print('caixa_2')
+

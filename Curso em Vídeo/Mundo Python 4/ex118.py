@@ -1,30 +1,17 @@
-class ContaBancaria:
-    '''
-Cria uma conta bancaria e permite fazer saques e depósitos
-    '''
-    def __init__(self, id, nome, saldo = 0):
-        self.id = id
-        self.titular = nome
-        self.saldo = saldo
-        print(f'Conta {self.id} criada com sucesso. Saldo atual de R${self.saldo:,.2f}')
+from rich.panel import Panel
+from rich import print
+class Chusrrasco:
+    def __init__(self, titulo, quant):
+        self.titulo = titulo
+        self.quant = quant
 
-    def __str__(self):
-        return f'A conta de {self.id} de {self.titular} tem R${self.saldo:,.2f} de saldo.'
+    def analizar(self):
+        produto = Panel(f'Analizando [green]{self.titulo}[/] com [blue]{self.quant} convidados[/]'
+                        f'\nCada participante comerá 0.4Kg e cada Kg custa R$82.40'
+                        f'\nRecomento comprar [blue]{self.quant*0.4:.3f}Kg[/] de carne'
+                        f'\nO custo total será de [green]R${(self.quant*0.4)*82.40:.2f}[/]'
+                        f'\nCada pessoa pagará [yellow]R${((self.quant*0.4)*82.40)/self.quant}[/] para participar.', title=self.titulo, width=70, height=7)
+        print(produto)
 
-    def depositar(self, valor):
-        self.saldo += valor
-        print(f'Deposito de R${valor:,.2f} autorizado na conta {self.id}.')
-
-    def sacar(self, valor):
-        if self.saldo - valor >= 0:
-            self.saldo -= valor
-            print(f'Saque de R${valor:,.2f} autorizado na conta {self.id}.')
-        else:
-            print(f'Saldo NEGADO DE R${valor:,.2f} na conta {self.id}: SALDO INSUFICIENTE.')
-
-c1 = ContaBancaria(112, 'Gustavo', 3000)
-c1.depositar(500)
-c1.sacar(2000000)
-print(c1)
-
-#print(c1.__doc__)
+c1 = Chusrrasco('Churras dos Amigos', 15)
+c1.analizar()
