@@ -15,15 +15,15 @@ class Livro:
                 print(f'Pág{c}> ', end='')
                 cont += 1
             self.pagina_atual += cont
-            print(f'Você avançou {cont} páginas e agora está na página {self.pagina_atual}')
+            print(f'[blue]Você avançou {cont} páginas e agora está na [yellow]página {self.pagina_atual}')
         else:
             for c in range(self.pagina_atual+1, self.paginas+1):
                 print(f'Pág{c}> ', end='')
                 cont += 1
             self.pagina_atual += cont
-            print(f'Você avançou {cont} páginas e agora está na página {self.pagina_atual}')
+            print(f'[blue]Você avançou {cont} páginas e agora está na [yellow]página {self.pagina_atual}')
             if self.pagina_atual == 20:
-                print(f'Voce chegou ao final do livro {self.titulo}')
+                print(f'[red]Voce chegou ao final do livro {self.titulo}')
 
 l1 = Livro('10 coisa que aprendi', 20)
 l1.avancar_paginas(5)
