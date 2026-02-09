@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex122.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex119.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex119.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,6 +256,7 @@
     "Python.ex119.executor": "Run",
     "Python.ex120.executor": "Run",
     "Python.ex121.executor": "Run",
+    "Python.ex122.executor": "Run",
     "Python.excluindo banco de dados (1).executor": "Run",
     "Python.excluindo banco de dados.executor": "Run",
     "Python.excluindo tabela.executor": "Run",
@@ -316,7 +315,7 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex121">
+  <component name="RunManager" selected="Python.ex122">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -332,51 +331,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Rich" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Rich/ex001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex117" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex117.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -477,20 +431,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex122.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.ex122" />
       <item itemvalue="Python.ex120" />
       <item itemvalue="Python.ex121" />
       <item itemvalue="Python.ex118" />
       <item itemvalue="Python.ex119" />
-      <item itemvalue="Python.ex117" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex122" />
         <item itemvalue="Python.ex121" />
         <item itemvalue="Python.ex120" />
         <item itemvalue="Python.ex119" />
         <item itemvalue="Python.ex118" />
-        <item itemvalue="Python.ex117" />
       </list>
     </recent_temporary>
   </component>
