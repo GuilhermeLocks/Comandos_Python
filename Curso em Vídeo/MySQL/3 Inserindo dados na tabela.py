@@ -10,7 +10,7 @@ nacionalidade = str(input('Nacionalidade: '))
 
 try:
     cursor.execute(f'''
-    insert into ninjas
+    insert into pessoas
     (id, nome, nascimento, sexo, altura, nacionalidade)
     values
     (default, '{nome}', '{nascimento}', '{sexo}', '{altura}', '{nacionalidade}');''')

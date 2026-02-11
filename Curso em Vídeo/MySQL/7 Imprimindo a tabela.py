@@ -9,7 +9,8 @@ db_connection = mysql.connector.connect(
 
 # 2. Criar cursor e executar select
 cursor = db_connection.cursor()
-cursor.execute("SELECT * FROM ninjas")
+tabela = input('Digite o nome da tabela: ')
+cursor.execute(f"SELECT * FROM {tabela}")
 
 # 3. Buscar e imprimir dados
 result = cursor.fetchall()

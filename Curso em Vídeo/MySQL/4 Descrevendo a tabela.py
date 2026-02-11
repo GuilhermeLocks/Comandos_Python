@@ -18,7 +18,7 @@ try:
     cursor = conn.cursor()
 
     # 3. Executar o comando DESCRIBE para uma tabela específica
-    table_name = 'ninjas' # Substitua pelo nome real da tabela
+    table_name = input('Digite a tabela: ') # Substitua pelo nome real da tabela
     query = f"DESCRIBE {table_name}"
     cursor.execute(query)
 
