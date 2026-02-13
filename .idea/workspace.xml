@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 manipulando linha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/5 Excluindo banco de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/5 Excluindo banco de dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 Alterar tabela drop.py" beforeDir="false" />
-    </list>
+    <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
