@@ -1,16 +1,11 @@
 import mysql.connector
+database = input('Digite o banco de dados: ')
 
-# Detalhes da sua conexão com o banco de dados
-config = {
-    'user': 'root',
-    'password': '',
-    'host': 'localhost', # ou o IP do seu servidor
-    'database': 'naruto'
-}
 
 try:
     # 1. Conectar ao MySQL
-    conn = mysql.connector.connect(**config)
+    # Detalhes da sua conexão com o banco de dados
+    conn = mysql.connector.connect(user='root', password='', host='localhost', database=database)
     if conn.is_connected():
         print('Conexão bem-sucedida ao MySQL')
 

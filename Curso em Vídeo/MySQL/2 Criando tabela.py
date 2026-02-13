@@ -1,5 +1,6 @@
 import mysql.connector
-con = mysql.connector.connect(host="localhost", user="root", password="", database='naruto')
+database = input('Digite o nome do bando de dados: ')
+con = mysql.connector.connect(host="localhost", user="root", password="", database=database)
 cursor = con.cursor()
 
 while True:

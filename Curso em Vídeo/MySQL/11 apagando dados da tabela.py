@@ -3,7 +3,7 @@ con = mysql.connector.connect(host='localhost', user='root', password='', databa
 cursor = con.cursor()
 
 try:
-    cursor.execute('drop table cursos')
-    print("Cursos excluido com sucesso!")
+    cursor.execute('truncate cursos')
+    print("Dados de cursos excluido com sucesso!")
 except:
     print("Erro ao deletar cursos")

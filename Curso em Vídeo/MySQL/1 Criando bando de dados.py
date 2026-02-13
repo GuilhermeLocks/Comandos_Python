@@ -3,7 +3,7 @@ con = mysql.connector.connect(host='localhost', user='root', password='')
 cursor = con.cursor()
 
 try:
-    cursor.execute('''CREATE DATABASE IF NOT EXISTS naruto
+    cursor.execute('''CREATE DATABASE IF NOT EXISTS cadastro;
     default character set utf8
     default collate utf8_general_ci
     ''')

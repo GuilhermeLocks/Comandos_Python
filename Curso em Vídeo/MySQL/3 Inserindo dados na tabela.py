@@ -1,5 +1,5 @@
 import mysql.connector
-con = mysql.connector.connect(host='localhost', user='root', password='', database='naruto')
+con = mysql.connector.connect(host='localhost', user='root', password='', database='cadastro')
 cursor = con.cursor()
 
 nome = str(input('Nome: '))

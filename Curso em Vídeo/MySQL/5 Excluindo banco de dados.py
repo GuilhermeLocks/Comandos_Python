@@ -3,7 +3,7 @@ con = mysql.connector.connect(host='localhost', user='root', password='')
 cursor = con.cursor()
 
 try:
-    cursor.execute("drop database naruto")
-    print("Naruto excluido com sucesso!")
+    cursor.execute("drop database cadastro")
+    print("Cadastro excluido com sucesso!")
 except:
-    print("Erro ao deletar naruto")
+    print("Erro ao deletar cadastro")
