@@ -53,6 +53,8 @@ restaurante_placa._ativo = True
 
 restaurantes = [restaurante_placa, restaurante_pizza]
 
+
+
 print(vars(restaurante_placa))
 print()
 print(dir(restaurante_placa))
