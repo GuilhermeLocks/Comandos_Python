@@ -16,9 +16,9 @@ class Restaurante:
 
     @classmethod
     def listar_restauramtes(cls):
-        print(f'{'nome ':<20}{'/categoria ':<20}{'/status':<20}{'/Media':<20}')
+        print(f'{'nome ':<19}{'/categoria ':<20}{'/status':<20}{'/Media':<20}')
         for restaurante in cls.restarantes:
-            print(f'{restaurante.nome:<20}/{restaurante.categoria:<19}/{restaurante.ativo:<19}/{str(restaurante.media_avaliacoes):<20}')
+            print(f'{restaurante.nome:<19}/{restaurante.categoria:<19}/{restaurante.ativo:<19}/{restaurante.media_avaliacoes:<20}')
 
     @property
     def ativo(self):
@@ -41,38 +41,32 @@ class Restaurante:
         media = round(soma_das_notas / quantidade_de_notas, 1)
         return media
 
+
+
+
     def adicionar_bebida_no_cardapio(self, bebida):
         self._cardapio.append(bebida)
 
     def adicionar_prato_no_cardapio(self, prato):
         self._cardapio.append(prato)
 
-restaurante_placa = Restaurante('praça', 'Gourmet')
-restaurante_pizza = Restaurante('pizza', 'Italiana')
-restaurante_placa._ativo = True
+# restaurante_placa = Restaurante('praça', 'Gourmet')
+# restaurante_placa.alternar_estado()
+# restaurante_pizza = Restaurante('pizza', 'Italiana')
+#
+# restaurante_placa.receber_avaliacao('Gui', 5)
+# restaurante_placa.receber_avaliacao('Gui', 2)
+# restaurante_pizza.receber_avaliacao('Gui', 5)
+# restaurante_pizza.receber_avaliacao('Gui', 4)
+#
+# Restaurante.listar_restauramtes()
 
-restaurantes = [restaurante_placa, restaurante_pizza]
+# restaurantes = [restaurante_placa, restaurante_pizza]
+# print(vars(restaurante_placa))
+# print(dir(restaurante_placa))
+# print(restaurante_placa)
+# for c in restaurantes:
+#     print(c)
+# print(restaurante_placa.media_avaliacoes)
 
 
-
-print(vars(restaurante_placa))
-print()
-print(dir(restaurante_placa))
-print()
-print(restaurante_placa)
-print()
-for c in restaurantes:
-    print(c)
-print()
-
-
-restaurante_pizza.alternar_estado()
-
-restaurante_placa.receber_avaliacao('Gui', 5)
-restaurante_placa.receber_avaliacao('Gui', 2)
-#restaurante_pizza.receber_avaliacao('Gui', 5)
-#restaurante_pizza.receber_avaliacao('Gui', 4)
-print()
-print(restaurante_placa.media_avaliacoes)
-print()
-Restaurante.listar_restauramtes()
