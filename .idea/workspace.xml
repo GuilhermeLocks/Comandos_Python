@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Alura/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     &quot;Python.10 deletando linha.executor&quot;: &quot;Run&quot;,
     &quot;Python.11 apagando dados da tabela.executor&quot;: &quot;Run&quot;,
     &quot;Python.12 cópia de segurança.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 seleção de dados.executor&quot;: &quot;Run&quot;,
     &quot;Python.2 Criando tabela.executor&quot;: &quot;Run&quot;,
     &quot;Python.2_Criando tabela.executor&quot;: &quot;Run&quot;,
     &quot;Python.3 Inserindo dados na tabela (1).executor&quot;: &quot;Run&quot;,
@@ -339,8 +340,8 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
-    <configuration name="11 apagando dados da tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13 seleção de dados">
+    <configuration name="13 seleção de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,7 +355,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -363,7 +364,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12 cópia de segurança" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4 Descrevendo a tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,7 +378,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/12 cópia de segurança.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -479,19 +480,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.4 Descrevendo a tabela" />
+      <item itemvalue="Python.13 seleção de dados" />
       <item itemvalue="Python.app (1)" />
       <item itemvalue="Python.restaurante" />
       <item itemvalue="Python.app" />
-      <item itemvalue="Python.12 cópia de segurança" />
-      <item itemvalue="Python.11 apagando dados da tabela" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13 seleção de dados" />
+        <item itemvalue="Python.4 Descrevendo a tabela" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.restaurante" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.12 cópia de segurança" />
-        <item itemvalue="Python.11 apagando dados da tabela" />
       </list>
     </recent_temporary>
   </component>
