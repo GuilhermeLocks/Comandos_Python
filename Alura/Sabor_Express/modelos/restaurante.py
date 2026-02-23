@@ -1,10 +1,11 @@
 from Alura.Sabor_Express.modelos.avaliacao import Avaliacao
+from Alura.Sabor_Express.modelos.cardapio.item_carpadio import ItemCardapio
 
 class Restaurante:
     restarantes = []
 
     def __init__(self, nome, categoria):
-        self.nome = nome.title()
+        self._nome = nome.title()
         self.categoria = categoria.upper()
         self._ativo = False
         self._avaliacao = []
@@ -12,7 +13,7 @@ class Restaurante:
         Restaurante.restarantes.append(self)
 
     def __str__(self):
-        return f'{self.nome} / {self.categoria}'
+        return f'{self._nome} / {self.categoria}'
 
     @classmethod
     def listar_restauramtes(cls):
@@ -41,14 +42,21 @@ class Restaurante:
         media = round(soma_das_notas / quantidade_de_notas, 1)
         return media
 
+    def adicionar_no_cardapio(self, item):
+        if isinstance(item,ItemCardapio):
+            self._cardapio.append(item)
 
+    @property
+    def exibir_cardapio(self):
+        print(f'Carddapio do restaurante {self._nome}\n')
+        for i, item in enumerate(self._cardapio, start=1):
 
-
-    def adicionar_bebida_no_cardapio(self, bebida):
-        self._cardapio.append(bebida)
-
-    def adicionar_prato_no_cardapio(self, prato):
-        self._cardapio.append(prato)
+            if hasattr(item, 'descricao'):
+                mensagem_prato = f'{i}. Nome:{item._nome} / Preço: R${item._preco} /  Descrição:{item.descricao}'
+                print(mensagem_prato)
+            if hasattr(item, 'tamanho'):
+                mensagem_bebida = f'{i}. Nome:{item._nome} / Preço: R${item._preco} /  Descrição:{item.tamanho}'
+                print(mensagem_bebida)
 
 # restaurante_placa = Restaurante('praça', 'Gourmet')
 # restaurante_placa.alternar_estado()

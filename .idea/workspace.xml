@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Sabor_Express/modelos/restaurante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +340,7 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13 seleção de dados">
+  <component name="RunManager" selected="Python.ex117">
     <configuration name="13 seleção de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -433,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex117" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,11 +443,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Sabor_Express" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura\app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex117.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -480,19 +480,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.ex117" />
       <item itemvalue="Python.4 Descrevendo a tabela" />
       <item itemvalue="Python.13 seleção de dados" />
       <item itemvalue="Python.app (1)" />
       <item itemvalue="Python.restaurante" />
-      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex117" />
         <item itemvalue="Python.13 seleção de dados" />
-        <item itemvalue="Python.4 Descrevendo a tabela" />
         <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.4 Descrevendo a tabela" />
         <item itemvalue="Python.restaurante" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
