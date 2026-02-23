@@ -128,5 +128,69 @@ try:
     result = cursor.fetchall()
     for row in result:
         print(row)
+    print(' ')
+    print('mulheres')
+    print(' ')
+    cursor.execute(f'''SELECT * FROM {tabela}
+                        where sexo = 'M';''')
+
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('nacionalidade')
+    print(' ')
+    cursor.execute(f'''SELECT * FROM {tabela}
+                        where nacionalidade = 'Brazileiro';''')
+
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('nacionalidade')
+    print(' ')
+    cursor.execute(f'''SELECT * FROM {tabela}
+                       where nome like 'n%' and nacionalidade = 'Japones' and sexo = 'M';''')
+
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('nacionalidade')
+    print(' ')
+    cursor.execute(f'''SELECT nome FROM {tabela}
+                           where nome like '%i%' and nacionalidade = 'Japones' and altura > '1.70';''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('maior altura')
+    print(' ')
+    cursor.execute(f'''SELECT max(altura) FROM {tabela}
+                               where nacionalidade = 'Japones';''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('media de altura')
+    print(' ')
+    cursor.execute(f'''SELECT avg(altura) FROM {tabela};''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('quantos tem mais de 1.70')
+    print(' ')
+    cursor.execute(f'''SELECT count(altura) FROM {tabela}
+                        where altura > 1.70;;''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
 except Exception as erro:
     print(f'Erro: {erro}')
