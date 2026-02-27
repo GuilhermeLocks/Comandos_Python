@@ -2,15 +2,18 @@ import mysql.connector
 database = input('Digite o nome do bando de dados: ')
 con = mysql.connector.connect(host="localhost", user="root", password="", database=database)
 cursor = con.cursor()
+# import sqlite3
+# conexao = sqlite3.connect('''cadastro.db''''')
+# cursor = conexao.cursor()
 
 while True:
-    comando = input('Digite um numero entre 1 a 2:')
-    if comando == '1' or comando == '2':
+    comando = input('Digite pessoas ou cursos para criar a tabela:')
+    if comando == 'pessoas' or comando == 'cursos':
         break
     else:
         print('Comando invalido tente novamente')
 
-if comando == '1':
+if comando == 'pessoas':
     try:
         cursor.execute("""
         CREATE TABLE if not exists pessoas (
@@ -23,12 +26,12 @@ if comando == '1':
             PRIMARY KEY(id)
         ) default charset = utf8
         """)
-    except:
-        print('Erro ao criar tabela.')
+    except Exception as erro:
+        print(f'Erro: {erro}.')
     else:
         print("Tabela criada com sucesso!")
 
-if comando == '2':
+if comando == 'cursos':
     try:
         cursor.execute("""
         CREATE TABLE if not exists cursos (
@@ -39,7 +42,7 @@ if comando == '2':
             ano year default '2016'
         ) default charset = utf8
         """)
-    except:
-        print('Erro ao criar tabela.')
+    except Exception as erro:
+        print(f'Erro: {erro}.')
     else:
         print("Tabela criada com sucesso!")

@@ -192,5 +192,24 @@ try:
     result = cursor.fetchall()
     for row in result:
         print(row)
+    print(' ')
+    print(' ')
+    print('agrupamente')
+    print(' ')
+    cursor.execute(f'''SELECT altura, count(altura) FROM {tabela}
+                            group by altura;;''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
+    print(' ')
+    print(' ')
+    print('having')
+    print(' ')
+    cursor.execute(f'''SELECT altura, count(altura) FROM {tabela}
+                                group by altura
+                                having count(altura)>3;;''')
+    result = cursor.fetchall()
+    for row in result:
+        print(row)
 except Exception as erro:
     print(f'Erro: {erro}')

@@ -12,7 +12,7 @@ try:
     for row in result:
         print(row)
 
-    cursor.execute(f'''delete from pessoa
+    cursor.execute(f'''delete from pessoas
                    where id = '{onde}'
                    limit 1;''')
 

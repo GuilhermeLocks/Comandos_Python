@@ -1,11 +1,10 @@
 import mysql.connector
-database = input('Digite o banco de dados: ')
 # 1. Configurar a conexão
 db_connection = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database=database)
+    database='cadastro')
 
 # 2. Criar cursor e executar select
 cursor = db_connection.cursor()

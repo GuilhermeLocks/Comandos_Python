@@ -15,7 +15,7 @@ while True:
 9 Deletar coluna profissão
 Digite um numero entre 1 a 9:'''))
     except:
-        print('Comando invalido tentenovamente!')
+        print('Comando invalido tente novamente!')
     if comando >= 1 and comando <= 9:
         break
     else:
@@ -55,7 +55,7 @@ if comando == 4:
         print(f'Erro: {erro}')
 if comando == 5:
     try:
-        cursor.execute('''alter table ninjas
+        cursor.execute('''alter table pessoas
                        change column profissao prof varchar(20);''')
         print('Coluna profissão renomeada para prof com sucesso!')
 

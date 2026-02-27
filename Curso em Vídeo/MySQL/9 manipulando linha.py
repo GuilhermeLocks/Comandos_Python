@@ -15,7 +15,7 @@ try:
         if row[0] == 5:
             print(row)
 
-    cursor.execute(f'''update pessoa
+    cursor.execute(f'''update pessoas
                    set {coluna} = '{modificacao}', nacionalidade = 'renegado'
                    where id = '{onde}'
                    limit 1;''')

@@ -1,11 +1,9 @@
 import mysql.connector
-database = input('Digite o banco de dados: ')
-
 
 try:
     # 1. Conectar ao MySQL
     # Detalhes da sua conexão com o banco de dados
-    conn = mysql.connector.connect(user='root', password='', host='localhost', database=database)
+    conn = mysql.connector.connect(user='root', password='', host='localhost', database='cadastro')
     if conn.is_connected():
         print('Conexão bem-sucedida ao MySQL')
 
