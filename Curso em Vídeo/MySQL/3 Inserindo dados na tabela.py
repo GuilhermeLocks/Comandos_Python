@@ -14,8 +14,12 @@ try:
     (id, nome, nascimento, sexo, altura, nacionalidade)
     values
     (default, '{nome}', '{nascimento}', '{sexo}', '{altura}', '{nacionalidade}');''')
-
-    print('Dados inseridos com sucesso!')
+    print(f'''
+insert into pessoas
+(id, nome, nascimento, sexo, altura, nacionalidade)
+values
+(default, '{nome}', '{nascimento}', '{sexo}', '{altura}', '{nacionalidade}');''')
+    print('\nDados inseridos com sucesso!')
 
 except Exception as Erro:
 

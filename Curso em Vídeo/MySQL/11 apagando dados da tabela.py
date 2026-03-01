@@ -1,9 +1,14 @@
 import mysql.connector
-con = mysql.connector.connect(host='localhost', user='root', password='', database='naruto')
+con = mysql.connector.connect(host='localhost', user='root', password='')
 cursor = con.cursor()
 
 try:
-    cursor.execute('truncate cursos')
-    print("Dados de cursos excluido com sucesso!")
+    database = input(f'Digite o nome do bando de dados: ')
+    cursor.execute(f'USE {database};')
+    table = input(f'Digite o nome da tabela: ')
+    cursor.execute(f'TRUNCATE {table};')
+    print(f'\nUSE {database};')
+    print(f'\nTRUNCATE {table};')
+    print("\nDados de cursos excluido com sucesso!")
 except:
     print("Erro ao deletar cursos")

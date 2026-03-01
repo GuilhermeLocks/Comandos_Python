@@ -3,7 +3,7 @@ import mysql.connector
 try:
     # 1. Conectar ao MySQL
     # Detalhes da sua conexão com o banco de dados
-    conn = mysql.connector.connect(user='root', password='', host='localhost', database='cadastro')
+    conn = mysql.connector.connect(user='root', password='', host='localhost')
     if conn.is_connected():
         print('Conexão bem-sucedida ao MySQL')
 
@@ -11,6 +11,8 @@ try:
     cursor = conn.cursor()
 
     # 3. Executar o comando DESCRIBE para uma tabela específica
+    database = input('Digite o nome do bando de dados: ')
+    cursor.execute(f'use {database}')
     table_name = input('Digite a tabela: ') # Substitua pelo nome real da tabela
     query = f"DESCRIBE {table_name}"
     cursor.execute(query)
@@ -19,6 +21,8 @@ try:
     # fetchall() retorna todos os resultados da consulta
     results = cursor.fetchall()
 
+    print(f'\nuse {database};')
+    print(f'\ndescribe pessoas;')
     print(f"\nEstrutura da tabela '{table_name}':")
     print("-" * 55)
     print(f"{'Campo':<20} | {'Tipo':<15} | {'Nulo':<5} | {'Chave':<5}")

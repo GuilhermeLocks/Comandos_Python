@@ -7,8 +7,8 @@ caminho_mysqldump = r"C:\wamp64\bin\mysql\mysql8.4.7\bin\mysqldump.exe"
 
 host = "localhost"
 usuario = "root"
-senha = ""  # Se não tiver senha, deixe vazio, mas o -p ainda é necessário
-banco = "naruto"
+senha = ''  # Se não tiver senha, deixe vazio, mas o -p ainda é necessário
+banco = input('Digite o nome do banco de dados:')
 caminho_saida = r"I:\backup_naruto.sql"
 
 # Comando com o caminho completo entre aspas (importante para caminhos com espaços)

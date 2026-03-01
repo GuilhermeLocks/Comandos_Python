@@ -4,6 +4,7 @@ cursor = con.cursor()
 
 try:
     cursor.execute("drop database cadastro")
-    print("Cadastro excluido com sucesso!")
+    print('drop database cadastro;')
+    print("\nCadastro excluido com sucesso!")
 except:
     print("Erro ao deletar cadastro")

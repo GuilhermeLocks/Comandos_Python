@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/12 cópia de segurança.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/12 cópia de segurança.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/5 Excluindo banco de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/5 Excluindo banco de dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 manipulando linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 manipulando linha.py" afterDir="false" />
@@ -347,8 +352,8 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2 Criando tabela">
-    <configuration name="1 Criando bando de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13 seleção de dados">
+    <configuration name="12 cópia de segurança" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,7 +367,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/12 cópia de segurança.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -371,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10 deletando linha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13 seleção de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -385,30 +390,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2 Criando tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -463,6 +445,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8 Alterar tabela add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -487,19 +492,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1 Criando bando de dados" />
-      <item itemvalue="Python.2 Criando tabela" />
-      <item itemvalue="Python.10 deletando linha" />
+      <item itemvalue="Python.12 cópia de segurança" />
+      <item itemvalue="Python.13 seleção de dados" />
+      <item itemvalue="Python.8 Alterar tabela add" />
       <item itemvalue="Python.4 Descrevendo a tabela" />
       <item itemvalue="Python.7 Imprimindo a tabela" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2 Criando tabela" />
-        <item itemvalue="Python.1 Criando bando de dados" />
-        <item itemvalue="Python.7 Imprimindo a tabela" />
-        <item itemvalue="Python.10 deletando linha" />
+        <item itemvalue="Python.13 seleção de dados" />
+        <item itemvalue="Python.8 Alterar tabela add" />
         <item itemvalue="Python.4 Descrevendo a tabela" />
+        <item itemvalue="Python.7 Imprimindo a tabela" />
+        <item itemvalue="Python.12 cópia de segurança" />
       </list>
     </recent_temporary>
   </component>
