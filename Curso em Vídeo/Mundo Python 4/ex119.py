@@ -12,13 +12,13 @@ class Livro:
         cont = 0
         if self.pagina_atual + self.avancar <= self.paginas:
             for c in range(self.pagina_atual+1, (self.pagina_atual+self.avancar)+1):
-                print(f'Pág{c}> ', end='')
+                print(f'Pág{c} > ', end='')
                 cont += 1
             self.pagina_atual += cont
             print(f'[blue]Você avançou {cont} páginas e agora está na [yellow]página {self.pagina_atual}')
         else:
             for c in range(self.pagina_atual+1, self.paginas+1):
-                print(f'Pág{c}> ', end='')
+                print(f'Pág{c} > ', end='')
                 cont += 1
             self.pagina_atual += cont
             print(f'[blue]Você avançou {cont} páginas e agora está na [yellow]página {self.pagina_atual}')
@@ -28,4 +28,4 @@ class Livro:
 l1 = Livro('10 coisa que aprendi', 20)
 l1.avancar_paginas(5)
 l1.avancar_paginas(10)
-l1.avancar_paginas(100)
+l1.avancar_paginas(50)
