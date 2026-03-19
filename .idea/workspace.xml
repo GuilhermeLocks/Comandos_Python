@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex120.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex120.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,8 +341,8 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Alura\Desenvolvimento Back-End Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex120">
-    <configuration name="13 seleção de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6 Excluindo tabela">
+    <configuration name="4 Descrevendo a tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,7 +356,76 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/13 seleção de dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6 Excluindo tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/6 Excluindo tabela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7 Imprimindo a tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8 Alterar tabela add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -379,75 +449,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Sabor_Express" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Sabor_Express/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex118" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex118.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex119" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex119.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -480,19 +481,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.4 Descrevendo a tabela" />
+      <item itemvalue="Python.6 Excluindo tabela" />
+      <item itemvalue="Python.7 Imprimindo a tabela" />
+      <item itemvalue="Python.8 Alterar tabela add" />
       <item itemvalue="Python.ex120" />
-      <item itemvalue="Python.ex119" />
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.ex118" />
-      <item itemvalue="Python.13 seleção de dados" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6 Excluindo tabela" />
+        <item itemvalue="Python.7 Imprimindo a tabela" />
+        <item itemvalue="Python.4 Descrevendo a tabela" />
+        <item itemvalue="Python.8 Alterar tabela add" />
         <item itemvalue="Python.ex120" />
-        <item itemvalue="Python.ex119" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.ex118" />
-        <item itemvalue="Python.13 seleção de dados" />
       </list>
     </recent_temporary>
   </component>

@@ -19,11 +19,14 @@ while True:
 9 removando idcurso como chave primaria
 10 renomea database para curso
 11 renomea database para cursos
+12 adiciona coluna ninja
+13 altera coluna ninja para cheve estrageira 
+14 adiciona o itachi
 
-Digite um numero entre 1 a 11:'''))
+Digite um numero entre 1 a 14:'''))
         except:
             print('Comando invalido tente novamente!')
-        if comando >= 1 and comando <= 11:
+        if comando >= 1 and comando <= 14:
             break
         else:
             print('Comando invalido tente novamente')
@@ -128,6 +131,35 @@ rename to curso;''')
             print('''alter table curso
 rename to cursos;''')
 
+        except Exception as erro:
+            print(f'Erro: {erro}')
+    if comando == 12:
+        try:
+            cursor.execute('''alter table pessoas
+                              add column ninja varchar(10);''')
+            print('''alter table pessoas
+add column profissao varchar(10);''')
+
+        except Exception as erro:
+            print(f'Erro: {erro}')
+    if comando == 13:
+        try:
+            cursor.execute('''alter table pessoas
+                              add foreign key (ninja)
+                              references naruto(pessoa);''')
+            print('''alter table pessoas
+add foreign key (ninja)
+references naruto(pessoa);''')
+        except Exception as erro:
+            print(f'Erro: {erro}')
+    if comando == 14:
+        try:
+            cursor.execute('''update pessoas
+                              set ninja = 'itachi'
+                              where id = 1;''')
+            print('''update pessoas
+set ninja = itachi
+where id = 1;''')
         except Exception as erro:
             print(f'Erro: {erro}')
 

@@ -10,5 +10,5 @@ try:
     print(f'\nuse {database}')
     print(f'\ndrop table {tabela};')
     print("\nCursos excluido com sucesso!")
-except:
-    print("Erro ao deletar cursos")
+except Exception as erro:
+    print(f"Erro: {erro}")
