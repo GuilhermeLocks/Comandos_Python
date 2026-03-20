@@ -23,6 +23,7 @@ while True:
 13 altera coluna ninja para cheve estrageira 
 14 adiciona o itachi
 
+
 Digite um numero entre 1 a 14:'''))
         except:
             print('Comando invalido tente novamente!')
@@ -146,7 +147,7 @@ add column profissao varchar(10);''')
         try:
             cursor.execute('''alter table pessoas
                               add foreign key (ninja)
-                              references naruto(pessoa);''')
+                              references cursos(nome);''')
             print('''alter table pessoas
 add foreign key (ninja)
 references naruto(pessoa);''')
@@ -155,11 +156,11 @@ references naruto(pessoa);''')
     if comando == 14:
         try:
             cursor.execute('''update pessoas
-                              set ninja = 'itachi'
+                              set ninja = 'naruto'
                               where id = 1;''')
             print('''update pessoas
-set ninja = itachi
-where id = 1;''')
+set ninja = naruto
+where id = 2;''')
         except Exception as erro:
             print(f'Erro: {erro}')
 
