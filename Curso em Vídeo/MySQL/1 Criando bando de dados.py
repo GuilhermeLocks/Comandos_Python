@@ -3,14 +3,14 @@ con = mysql.connector.connect(host='localhost', user='root', password='')
 cursor = con.cursor()
 
 try:
-    cursor.execute('''CREATE DATABASE IF NOT EXISTS cadastro;
+    cursor.execute('''CREATE DATABASE IF NOT EXISTS cadastro
     default character set utf8
-    default collate utf8_general_ci
+    default collate utf8_general_ci;
     ''')
     print('''CREATE DATABASE IF NOT EXISTS cadastro;
 default character set utf8
 default collate utf8_general_ci
     ''')
     print("Banco de dados criado com sucesso!")
-except:
-    print("Erro ao criar banco de dados.")
+except Exception as Erro:
+    print(f"Erro: {Erro}")

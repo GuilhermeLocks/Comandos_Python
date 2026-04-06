@@ -14,11 +14,36 @@ try:
     (id, nome, nascimento, sexo, altura, nacionalidade)
     values
     (default, '{nome}', '{nascimento}', '{sexo}', '{altura}', '{nacionalidade}');''')
+
     print(f'''
 insert into pessoas
 (id, nome, nascimento, sexo, altura, nacionalidade)
 values
 (default, '{nome}', '{nascimento}', '{sexo}', '{altura}', '{nacionalidade}');''')
+    print('\nDados inseridos com sucesso!\n')
+
+except Exception as Erro:
+
+    print(f'Erro: {Erro}')
+
+nome = str(input('Nome: '))
+descricao = str(input('Descrição:: '))
+carga = str(input('Carga horaria: '))
+totaulas = str(input('TOtal de aulas: '))
+ano = str(input('Ano: '))
+
+try:
+    cursor.execute(f'''
+insert into cursos
+(nome, descricao, carga, totaulas, ano)
+values
+('{nome}', '{descricao}', '{carga}', '{totaulas}', '{ano}');''')
+
+    print(f'''
+insert into cursos
+(nome, descricao, carga, totaulas, ano)
+values
+('{nome}', '{descricao}', '{carga}', '{totaulas}', '{ano}');''')
     print('\nDados inseridos com sucesso!')
 
 except Exception as Erro:

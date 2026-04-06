@@ -1,4 +1,3 @@
-from django.forms.widgets import Input
 from rich.panel import Panel
 from rich import print
 class televisao:

@@ -3,7 +3,7 @@ con = mysql.connector.connect(host='localhost', user='root', password='')
 cursor = con.cursor()
 
 try:
-    database = input(f'Digite o nome do bando de dados: ')
+    database = 'cadastro'
     cursor.execute(f'USE {database};')
     table = input(f'Digite o nome da tabela: ')
     cursor.execute(f'TRUNCATE {table};')

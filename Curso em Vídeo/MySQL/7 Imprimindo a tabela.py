@@ -1,6 +1,6 @@
 import mysql.connector
 # 1. Configurar a conexão
-database = input('Digite o nome do bando de dados: ')
+database = 'cadastro'
 db_connection = mysql.connector.connect(
     host="localhost",
     user="root",

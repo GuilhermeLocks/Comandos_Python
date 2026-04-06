@@ -11,7 +11,7 @@ try:
     cursor = conn.cursor()
 
     # 3. Executar o comando DESCRIBE para uma tabela específica
-    database = input('Digite o nome do bando de dados: ')
+    database = 'cadastro'
     cursor.execute(f'use {database}')
     table_name = input('Digite a tabela: ') # Substitua pelo nome real da tabela
     query = f"DESCRIBE {table_name}"
@@ -30,7 +30,7 @@ try:
     for row in results:
         # A saída de DESCRIBE geralmente tem 6 colunas: Field, Type, Null, Key, Default, Extra
         field, type_name, null, key, default, extra = row
-        print(f"{field:<20} | {type_name!s:<15} | {null:<5} | {key:<5}")
+        print(f"{field:<20} | {type_name!s:<15} | {null:<5} | {key}")
     print("-" * 55)
 
 except mysql.connector.Error as e:
