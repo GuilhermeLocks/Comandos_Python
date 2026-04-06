@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex122.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex122.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/1 Criando bando de dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/10 deletando linha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/11 apagando dados da tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/14 join.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras/14 join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/2 Criando tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/4 Descrevendo a tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 manipulando linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/9 manipulando linha.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +349,7 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo\Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10 deletando linha">
+  <component name="RunManager" selected="Python.ex122">
     <configuration name="10 deletando linha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -402,31 +392,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/3 Inserindo dados na tabela.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7 Imprimindo a tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/7 Imprimindo a tabela.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -510,20 +475,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex122.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.ex122" />
       <item itemvalue="Python.10 deletando linha" />
-      <item itemvalue="Python.7 Imprimindo a tabela" />
       <item itemvalue="Python.8 Alterar tabela add" />
       <item itemvalue="Python.9 manipulando linha" />
       <item itemvalue="Python.3 Inserindo dados na tabela" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex122" />
         <item itemvalue="Python.10 deletando linha" />
         <item itemvalue="Python.3 Inserindo dados na tabela" />
         <item itemvalue="Python.9 manipulando linha" />
         <item itemvalue="Python.8 Alterar tabela add" />
-        <item itemvalue="Python.7 Imprimindo a tabela" />
       </list>
     </recent_temporary>
   </component>
@@ -594,6 +584,7 @@
       <workItem from="1774965900400" duration="511000" />
       <workItem from="1774966433938" duration="2104000" />
       <workItem from="1775493276076" duration="2756000" />
+      <workItem from="1775503626027" duration="2795000" />
     </task>
     <servers />
   </component>
@@ -612,49 +603,50 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/14_join_py$3_Inserindo_dados_na_tabela.coverage" NAME="3 Inserindo dados na tabela Coverage Results" MODIFIED="1774968778086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$Calculadora_com_tratamento_de_erros.coverage" NAME="Calculadora com tratamento de erros Coverage Results" MODIFIED="1758397845961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex122_py$7_Imprimindo_a_tabela.coverage" NAME="7 Imprimindo a tabela Coverage Results" MODIFIED="1775494836597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/ex122_py$8_Alterar_tabela_add.coverage" NAME="8 Alterar tabela add Coverage Results" MODIFIED="1775494851373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/ex122_py$ex122.coverage" NAME="ex122 Coverage Results" MODIFIED="1775506272792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
     <SUITE FILE_PATH="coverage/Ex010_py$piano__1_.coverage" NAME="piano (1) Coverage Results" MODIFIED="1766846956632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/piano" />
     <SUITE FILE_PATH="coverage/Ex010_py$partitura_de_piano.coverage" NAME="partitura de piano Coverage Results" MODIFIED="1766847228529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115c.coverage" NAME="ex115c Coverage Results" MODIFIED="1750113994913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
+    <SUITE FILE_PATH="coverage/14_join_py$14_join__1_.coverage" NAME="14 join (1) Coverage Results" MODIFIED="1774966994090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras" />
+    <SUITE FILE_PATH="coverage/ex122_py$9_manipulando_linha.coverage" NAME="9 manipulando linha Coverage Results" MODIFIED="1775494910507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/ex021_py$validador_de_CPF.coverage" NAME="validador_de_CPF Coverage Results" MODIFIED="1758045385071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/Ex010_py$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1766845474768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 1/Exercícios" />
+    <SUITE FILE_PATH="coverage/Ex010_py$excluindo_tebela.coverage" NAME="excluindo tebela Coverage Results" MODIFIED="1764770092226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/ex122_py$2_Criando_tabela.coverage" NAME="2 Criando tabela Coverage Results" MODIFIED="1775494336967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/Ex010_py$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1765122112996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+    <SUITE FILE_PATH="coverage/Ex010_py$triangulo_retangulo.coverage" NAME="triangulo retangulo Coverage Results" MODIFIED="1764933895291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+    <SUITE FILE_PATH="coverage/ex122_py$1_Criando_bando_de_dados.coverage" NAME="1 Criando bando de dados Coverage Results" MODIFIED="1775494166612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/Ex010_py$baixador_de_videos.coverage" NAME="baixador de videos Coverage Results" MODIFIED="1766844245083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
+    <SUITE FILE_PATH="coverage/ex122_py$3_Inserindo_dados_na_tabela.coverage" NAME="3 Inserindo dados na tabela Coverage Results" MODIFIED="1775494924774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/ex021_py$Identificando_palavras_mais_longas_em_um_texto.coverage" NAME="Identificando palavras mais longas em um texto Coverage Results" MODIFIED="1758198198029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/ex021_py$restaurante.coverage" NAME="restaurante Coverage Results" MODIFIED="1759782589109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/OO-Sabor-Express/modelos" />
+    <SUITE FILE_PATH="coverage/14_join_py$3_Inserindo_dados_na_tabela.coverage" NAME="3 Inserindo dados na tabela Coverage Results" MODIFIED="1774968778086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
+    <SUITE FILE_PATH="coverage/ex122_py$8_Alterar_tabela_add.coverage" NAME="8 Alterar tabela add Coverage Results" MODIFIED="1775494851373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/Ex010_py$Criando_bando_de_dados.coverage" NAME="Criando bando de dados Coverage Results" MODIFIED="1764769869728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$Numero_Secreto.coverage" NAME="Numero-Secreto Coverage Results" MODIFIED="1757674772970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Soma_de_numeros.coverage" NAME="Soma de numeros Coverage Results" MODIFIED="1757888456034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra__1_.coverage" NAME="contador de palavra (1) Coverage Results" MODIFIED="1758036671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
     <SUITE FILE_PATH="coverage/Ex010_py$cobra.coverage" NAME="cobra Coverage Results" MODIFIED="1764953702605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
     <SUITE FILE_PATH="coverage/ex021_py$Jogo_de_adivinhar_o_número.coverage" NAME="Jogo de adivinhar o número Coverage Results" MODIFIED="1758397125935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/14_join_py$14_join__1_.coverage" NAME="14 join (1) Coverage Results" MODIFIED="1774966994090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras" />
     <SUITE FILE_PATH="coverage/ex122_py$4_Descrevendo_a_tabela.coverage" NAME="4 Descrevendo a tabela Coverage Results" MODIFIED="1775494776837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/ex122_py$9_manipulando_linha.coverage" NAME="9 manipulando linha Coverage Results" MODIFIED="1775494910507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$Gerador_de_senha_segura.coverage" NAME="Gerador de senha segura Coverage Results" MODIFIED="1758198681070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/Ex010_py$piano__2_.coverage" NAME="piano (2) Coverage Results" MODIFIED="1766850547573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
-    <SUITE FILE_PATH="coverage/ex021_py$validador_de_CPF.coverage" NAME="validador_de_CPF Coverage Results" MODIFIED="1758045385071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/Ex010_py$variavel_local_e_global.coverage" NAME="variavel local e global Coverage Results" MODIFIED="1764766464886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
     <SUITE FILE_PATH="coverage/workspace_xml$Contador_de_numeros_aleatorio.coverage" NAME="Contador de numeros aleatorio Coverage Results" MODIFIED="1774477862327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
     <SUITE FILE_PATH="coverage/Ex010_py$criptar_palabra.coverage" NAME="criptar palabra Coverage Results" MODIFIED="1765289651378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
-    <SUITE FILE_PATH="coverage/Ex010_py$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1766845474768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 1/Exercícios" />
     <SUITE FILE_PATH="coverage/Ex010_py$piano.coverage" NAME="piano Coverage Results" MODIFIED="1766846876342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ex010_py$excluindo_tebela.coverage" NAME="excluindo tebela Coverage Results" MODIFIED="1764770092226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/ex122_py$2_Criando_tabela.coverage" NAME="2 Criando tabela Coverage Results" MODIFIED="1775494336967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/workspace_xml$ex122.coverage" NAME="ex122 Coverage Results" MODIFIED="1774956614316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
-    <SUITE FILE_PATH="coverage/Ex010_py$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1765122112996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
-    <SUITE FILE_PATH="coverage/Ex010_py$triangulo_retangulo.coverage" NAME="triangulo retangulo Coverage Results" MODIFIED="1764933895291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044885369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/ex122_py$1_Criando_bando_de_dados.coverage" NAME="1 Criando bando de dados Coverage Results" MODIFIED="1775494166612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$Contador_de_cédulas_únicas.coverage" NAME="Contador de cédulas únicas Coverage Results" MODIFIED="1758908180929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Gerenciador_de_tarefas.coverage" NAME="Gerenciador de tarefas Coverage Results" MODIFIED="1758750019967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Pedra__papel_e_tesoura.coverage" NAME="Pedra, papel e tesoura Coverage Results" MODIFIED="1758396387380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
-    <SUITE FILE_PATH="coverage/Ex010_py$baixador_de_videos.coverage" NAME="baixador de videos Coverage Results" MODIFIED="1766844245083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
     <SUITE FILE_PATH="coverage/Ex010_py$Criando_tabela.coverage" NAME="Criando tabela Coverage Results" MODIFIED="1764769875851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/Ex010_py$Cabeçalho.coverage" NAME="Cabeçalho Coverage Results" MODIFIED="1766846976298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
     <SUITE FILE_PATH="coverage/14_join_py$1_Criando_bando_de_dados.coverage" NAME="1 Criando bando de dados Coverage Results" MODIFIED="1774966678342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/ex122_py$3_Inserindo_dados_na_tabela.coverage" NAME="3 Inserindo dados na tabela Coverage Results" MODIFIED="1775494924774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-    <SUITE FILE_PATH="coverage/ex021_py$Identificando_palavras_mais_longas_em_um_texto.coverage" NAME="Identificando palavras mais longas em um texto Coverage Results" MODIFIED="1758198198029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/Ex010_py$Cabeçalho.coverage" NAME="Cabeçalho Coverage Results" MODIFIED="1766846976298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teste" />
     <SUITE FILE_PATH="coverage/Ex010_py$calculadora_área_cilindro.coverage" NAME="calculadora_área_cilindro Coverage Results" MODIFIED="1764934495431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Testes" />
-    <SUITE FILE_PATH="coverage/ex021_py$restaurante.coverage" NAME="restaurante Coverage Results" MODIFIED="1759782589109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/OO-Sabor-Express/modelos" />
     <SUITE FILE_PATH="coverage/ex001_py$ex115__1_.coverage" NAME="ex115 (1) Coverage Results" MODIFIED="1750114065498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo Python 3/Exercícios" />
     <SUITE FILE_PATH="coverage/14_join_py$2_Criando_tabela.coverage" NAME="2 Criando tabela Coverage Results" MODIFIED="1774966731810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$main.coverage" NAME="main Coverage Results" MODIFIED="1758044618322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura/Contador de palavra" />
