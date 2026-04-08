@@ -23,8 +23,8 @@ try:
                    where id = '{onde}'
                    limit 1;''')
 
-    print(f'''\nupdate pessoas
-set {coluna} = '{modificacao}', nacionalidade = 'renegado'
+    print(f'''update pessoas
+set {coluna} = '{modificacao}'
 where id = '{onde}'
 limit 1;''')
 

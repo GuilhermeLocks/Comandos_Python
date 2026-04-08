@@ -8,7 +8,8 @@ while True:
     while True:
         try:
 
-            comando = int(input('''\n1 Adiciona coluna profissão
+            comando = int(input('''
+1 Adiciona coluna profissão
 2 Adicinada coluna profissão depois de nome
 3 Adicinada coluna profissão em primeiro lugar
 4 Modificada coluna profissão
@@ -21,7 +22,7 @@ while True:
 11 renomea database para cursos
 12 adiciona coluna ninja
 13 altera coluna ninja para cheve estrageira 
-14 adiciona o itachi
+14 adiciona o naruto
 
 
 Digite um numero entre 1 a 14:'''))
@@ -157,7 +158,7 @@ references naruto(pessoa);''')
         try:
             cursor.execute('''update pessoas
                               set ninja = 'naruto'
-                              where id = 1;''')
+                              where id = 2;''')
             print('''update pessoas
 set ninja = naruto
 where id = 2;''')

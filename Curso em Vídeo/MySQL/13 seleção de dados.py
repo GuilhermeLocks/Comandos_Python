@@ -1,10 +1,10 @@
 import mysql.connector
-con = mysql.connector.connect(host='localhost', user='root', password='', database='naruto')
+con = mysql.connector.connect(host='localhost', user='root', password='', database='cadastro')
 cursor = con.cursor()
 
 try:
     # tabela = input('Digite o nome da tabela: ')
-    tabela = 'pessoa'
+    tabela = 'pessoas'
 
     cursor.execute(f'''SELECT * FROM {tabela}
                    order by nome;''')
