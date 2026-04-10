@@ -10,12 +10,12 @@ print(f'\nUSE cadastro')
 cursor = db_connection.cursor()
 # cursor.execute(f"SELECT * FROM {tabela};")
 cursor.execute(f'use cadastro')
-cursor.execute('''select p.nome, c.nome
+comando = '''
+select p.nome, p.curso_preferido 
 from pessoas as p left join cursos as c
-on p.nome = c.nome;''')
-
-
-print(f'\nSELECT * FROM {tabela};\n')
+on p.curso_preferido = c.nome;'''
+cursor.execute(comando)
+print(comando, '\n')
 # 3. Buscar e imprimir dados
 result = cursor.fetchall()
 for row in result:

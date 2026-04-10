@@ -20,8 +20,8 @@ while True:
 9 removando idcurso como chave primaria
 10 renomea database para curso
 11 renomea database para cursos
-12 adiciona coluna ninja
-13 altera coluna ninja para cheve estrageira 
+12 adiciona coluna curso_preferido 
+13 altera coluna curso_preferido para cheve estrageira 
 14 adiciona o naruto
 
 
@@ -138,29 +138,40 @@ rename to cursos;''')
     if comando == 12:
         try:
             cursor.execute('''alter table pessoas
-                              add column ninja varchar(10);''')
+                              add column curso_preferido varchar(10);''')
             print('''alter table pessoas
-add column profissao varchar(10);''')
+add column curso_preferido varchar(10);''')
 
         except Exception as erro:
             print(f'Erro: {erro}')
     if comando == 13:
         try:
             cursor.execute('''alter table pessoas
-                              add foreign key (ninja)
+                              add foreign key (curso_preferido)
                               references cursos(nome);''')
             print('''alter table pessoas
-add foreign key (ninja)
+add foreign key (curso_preferido)
 references naruto(pessoa);''')
         except Exception as erro:
             print(f'Erro: {erro}')
     if comando == 14:
         try:
             cursor.execute('''update pessoas
-                              set ninja = 'naruto'
-                              where id = 2;''')
+                              set curso_preferido = 'Python'
+                              where id = 1;''')
             print('''update pessoas
-set ninja = naruto
+set curso_preferido = 'Python'
+where id = 1;''')
+        except Exception as erro:
+            print(f'Erro: {erro}')
+
+        try:
+            cursor.execute('''update pessoas
+                              set curso_preferido = 'Java'
+                              where id = 2;''')
+            print('''
+update pessoas
+set curso_preferido = 'Java'
 where id = 2;''')
         except Exception as erro:
             print(f'Erro: {erro}')
