@@ -7,8 +7,8 @@
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/8 Alterar tabela add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras/14 join.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras/14 join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT/Herança.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT/Herança.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras/14 join.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/MySQL/14 join.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,14 +345,14 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\MySQL" />
       <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\MySQL\Chaves_Estrangeiras" />
       <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura\Sabor_Express" />
       <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura" />
       <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\piano" />
-      <recent name="C:\Users\Usuario\Documents\GitHub\Comandos_Python\Curso em Vídeo\Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14 join">
+  <component name="RunManager" selected="Python.Herança">
     <configuration name="13 seleção de dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -394,32 +394,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/Chaves_Estrangeiras/14 join.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.5 Inserir dados automatico na tabela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Comandos_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/MySQL/3.5 Inserir dados automatico na tabela.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\MySQL\14 join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -478,6 +453,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Herança" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Comandos_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatGPT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatGPT/Herança.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -504,19 +504,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.14 join" />
       <item itemvalue="Python.13 seleção de dados" />
-      <item itemvalue="Python.3.5 Inserir dados automatico na tabela" />
+      <item itemvalue="Python.14 join" />
       <item itemvalue="Python.8 Alterar tabela add" />
       <item itemvalue="Python.9 manipulando linha" />
+      <item itemvalue="Python.Herança" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Herança" />
         <item itemvalue="Python.14 join" />
         <item itemvalue="Python.8 Alterar tabela add" />
         <item itemvalue="Python.13 seleção de dados" />
         <item itemvalue="Python.9 manipulando linha" />
-        <item itemvalue="Python.3.5 Inserir dados automatico na tabela" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +589,13 @@
       <workItem from="1775493276076" duration="2756000" />
       <workItem from="1775503626027" duration="2795000" />
       <workItem from="1775648643775" duration="3607000" />
-      <workItem from="1775827920254" duration="997000" />
+      <workItem from="1775827920254" duration="2387000" />
+      <workItem from="1775861946127" duration="278000" />
+      <workItem from="1776037935525" duration="4000" />
+      <workItem from="1776182046054" duration="362000" />
+      <workItem from="1776182437080" duration="231000" />
+      <workItem from="1776342825811" duration="882000" />
+      <workItem from="1776372002663" duration="451000" />
     </task>
     <servers />
   </component>
@@ -652,6 +658,7 @@
     <SUITE FILE_PATH="coverage/workspace_xml$ex122.coverage" NAME="ex122 Coverage Results" MODIFIED="1774956614316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
     <SUITE FILE_PATH="coverage/ex122_py$5_Excluindo_banco_de_dados.coverage" NAME="5 Excluindo banco de dados Coverage Results" MODIFIED="1775650058960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso em Vídeo/MySQL" />
     <SUITE FILE_PATH="coverage/ex021_py$contador_de_palavra.coverage" NAME="contador de palavra Coverage Results" MODIFIED="1758023241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Herança.coverage" NAME="Herança Coverage Results" MODIFIED="1775862201650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatGPT" />
     <SUITE FILE_PATH="coverage/ex021_py$Calculando_a_gorjeta.coverage" NAME="Calculando_a_gorjeta Coverage Results" MODIFIED="1758044885369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Contador_de_cédulas_únicas.coverage" NAME="Contador de cédulas únicas Coverage Results" MODIFIED="1758908180929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
     <SUITE FILE_PATH="coverage/ex021_py$Gerenciador_de_tarefas.coverage" NAME="Gerenciador de tarefas Coverage Results" MODIFIED="1758750019967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alura" />
