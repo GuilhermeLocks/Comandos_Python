@@ -51,10 +51,19 @@ class Drone(Trransporte):
             self.valor = self.fator * self.distancia
             print(f'Frete de Drone em {self.distancia}Km = R${self.valor:.2f}')
 
-class Viagem():
-    print('oi')
+class Frete:
+    def __init__(self, distancia):
+        self.distancia = distancia
+        Drone(self.distancia)
+        Motor(self.distancia)
+        Caminhao(self.distancia)
 
 dist = 8
 entrega = Drone(dist)
+entrega = Motor(dist)
+entrega = Caminhao(dist)
+print()
 
-Viagem()
+dist = 10
+
+Frete(dist)

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex124.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex124.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex125.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex125.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,6 +290,7 @@
     "Python.ex123.executor": "Run",
     "Python.ex124 (1).executor": "Run",
     "Python.ex124.executor": "Run",
+    "Python.ex125 (1).executor": "Run",
     "Python.ex125.executor": "Run",
     "Python.ex126.executor": "Run",
     "Python.ex127.executor": "Run",
@@ -356,7 +357,7 @@
       <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex124 (1)">
+  <component name="RunManager" selected="Python.ex125 (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -432,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex125 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -441,14 +442,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex125.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex125.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -508,19 +509,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex124 (1)" />
+      <item itemvalue="Python.ex125 (1)" />
       <item itemvalue="Python.ex123" />
-      <item itemvalue="Python.ex125" />
+      <item itemvalue="Python.ex124 (1)" />
       <item itemvalue="Python.ex126" />
       <item itemvalue="Python.ex127" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex125 (1)" />
         <item itemvalue="Python.ex124 (1)" />
         <item itemvalue="Python.ex123" />
         <item itemvalue="Python.ex127" />
         <item itemvalue="Python.ex126" />
-        <item itemvalue="Python.ex125" />
       </list>
     </recent_temporary>
   </component>
