@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521d243a-fe0c-4645-a141-0b337a96d690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/contador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex130.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,9 +161,11 @@
     &quot;Python.calculando a idade.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculando o total de vendas.executor&quot;: &quot;Run&quot;,
     &quot;Python.cobra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.contador de caracteres.executor&quot;: &quot;Run&quot;,
     &quot;Python.contador de palavra (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.contador de palavra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador.executor&quot;: &quot;Run&quot;,
     &quot;Python.conversor de tipos.executor&quot;: &quot;Run&quot;,
     &quot;Python.criptar palabra.executor&quot;: &quot;Run&quot;,
     &quot;Python.def contador (1).executor&quot;: &quot;Run&quot;,
@@ -295,6 +301,9 @@
     &quot;Python.ex126.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex127 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.ex127.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex128.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex129.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex130.executor&quot;: &quot;Run&quot;,
     &quot;Python.excluindo banco de dados (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.excluindo banco de dados.executor&quot;: &quot;Run&quot;,
     &quot;Python.excluindo tabela.executor&quot;: &quot;Run&quot;,
@@ -351,14 +360,14 @@
       <recent name="C:\Users\guisi\PyCharmMiscProject\Comandos_Python\Mundo Python 3\utilidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\Python\Mundo Python 4" />
       <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\Python" />
       <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\MySQL" />
       <recent name="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\MySQL\Chaves_Estrangeiras" />
       <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura\Sabor_Express" />
-      <recent name="C:\Users\Admin\Documents\GitHub\site\Comandos_Python\Alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex127 (1)">
+  <component name="RunManager" selected="Python.ex130">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
@@ -384,7 +393,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contador (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -393,14 +402,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Mundo Python 4/ex123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -409,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex124 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -425,7 +434,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex124.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\Comandos_Python\Curso em Vídeo\Python\Mundo Python 4\contador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -434,7 +443,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex125 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex128" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,7 +459,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex125.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex128.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -459,7 +468,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex126 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex129" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -475,7 +484,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex126.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex129.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -484,7 +493,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex127 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex130" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Comandos_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -500,7 +509,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex127.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Python/Mundo Python 4/ex130.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -510,26 +519,26 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex123" />
-      <item itemvalue="Python.ex124 (1)" />
-      <item itemvalue="Python.ex125 (1)" />
-      <item itemvalue="Python.ex126 (1)" />
-      <item itemvalue="Python.ex127 (1)" />
+      <item itemvalue="Python.contador (1)" />
+      <item itemvalue="Python.contador" />
+      <item itemvalue="Python.ex128" />
+      <item itemvalue="Python.ex129" />
+      <item itemvalue="Python.ex130" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex127 (1)" />
-        <item itemvalue="Python.ex126 (1)" />
-        <item itemvalue="Python.ex125 (1)" />
-        <item itemvalue="Python.ex124 (1)" />
-        <item itemvalue="Python.ex123" />
+        <item itemvalue="Python.ex130" />
+        <item itemvalue="Python.contador (1)" />
+        <item itemvalue="Python.contador" />
+        <item itemvalue="Python.ex129" />
+        <item itemvalue="Python.ex128" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
